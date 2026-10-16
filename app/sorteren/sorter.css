@@ -1,0 +1,75 @@
+/* Sorteer-miniapp: telefoon eerst, staat los van de rest van de site. */
+.sorter{max-width:520px;margin:0 auto;min-height:100dvh;padding:14px 16px 24px;display:flex;flex-direction:column;gap:12px;color:#25324b;overflow-x:hidden}
+.sorter h1{font-size:2rem;letter-spacing:-.05em;margin:14px 0 4px}
+.sorter p{line-height:1.55;color:#5d6c86;margin:0}
+.sorter button{font:inherit}
+.sorter .link{border:0;background:none;color:#4c46b8;font-weight:750;padding:6px 0}
+.sorter .link:disabled{color:#b3bccb}
+
+.start-grid{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-top:8px}
+.start-grid button{border:0;border-radius:18px;background:var(--c);color:#fff;text-align:left;padding:18px;min-height:96px;display:flex;flex-direction:column;justify-content:space-between}
+.start-grid button:first-child{grid-column:1/-1}
+.start-grid button:disabled{opacity:.45}
+.start-grid strong{font-size:1.2rem}
+.start-grid small{opacity:.9}
+.start-progress{font-size:.88rem}
+.start-actions{display:flex;gap:10px;flex-wrap:wrap}
+.start-actions button{border:1px solid #d5dbea;background:#fff;border-radius:12px;padding:11px 14px;font-weight:750;color:#3d4a8e}
+.start-actions .danger{color:#a2342a}
+
+.sorter-top{display:flex;justify-content:space-between;align-items:center;font-size:.9rem;font-weight:800;color:#5d6c86}
+.sorter-bar{height:5px;border-radius:5px;background:#e5e9f2;overflow:hidden}
+.sorter-bar span{display:block;height:100%;background:#4f49d8;transition:width .25s}
+
+.swipe-card{position:relative;flex:1;min-height:0;max-height:calc(100dvh - 210px);background:#fff;border:1px solid #e0e6f0;border-radius:24px;box-shadow:0 18px 40px #24366522;display:flex;flex-direction:column;overflow:hidden;touch-action:pan-y;user-select:none;transition:transform .18s ease-out}
+.swipe-card.dragging{transition:none}
+.card-lesson{background:var(--c);color:#fff;padding:14px 18px;display:flex;flex-direction:column;gap:2px}
+.card-lesson small{font-size:.68rem;font-weight:850;letter-spacing:.12em;opacity:.8}
+.card-lesson strong{font-size:1.2rem;letter-spacing:-.02em;line-height:1.25}
+.card-lesson span{font-size:.84rem;opacity:.92;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.conf{font-style:normal;font-size:.7rem;font-weight:850;letter-spacing:.06em;text-transform:uppercase;background:#ffffff33;border-radius:999px;padding:2px 8px}
+.conf.low{background:#ffd9a8;color:#6d3e07}
+.card-body{padding:16px 18px 20px;overflow-y:auto}
+.card-meta{font-size:.74rem;font-weight:800;letter-spacing:.05em;color:#8390a6!important;text-transform:uppercase;margin-bottom:10px!important}
+.card-warn{background:#fff5e8;border:1px solid #e8cfa6;color:#70502d!important;border-radius:10px;padding:8px 10px;font-size:.85rem;margin-bottom:10px!important}
+.card-stem{white-space:pre-line;color:#2c3a55!important;font-size:1rem;margin-bottom:10px!important}
+.card-options{list-style:none;padding:0;margin:8px 0 0;display:grid;gap:7px}
+.card-options li{display:flex;gap:10px;align-items:flex-start;background:#f6f8fc;border:1px solid #e3e8f2;border-radius:11px;padding:9px 11px;font-size:.93rem;line-height:1.4;white-space:pre-line}
+.card-options b{flex:none;width:22px;height:22px;border-radius:7px;background:#e3e6f6;color:#4d51a6;display:grid;place-items:center;font-size:.75rem}
+.stamp{position:absolute;top:84px;z-index:2;font-weight:900;font-size:1.5rem;letter-spacing:.06em;padding:4px 12px;border:4px solid;border-radius:10px;pointer-events:none;background:#fffd}
+.stamp.yes{left:18px;color:#1f8a52;transform:rotate(-12deg)}
+.stamp.no{right:18px;color:#c43d2c;transform:rotate(12deg)}
+
+.swipe-buttons{display:flex;justify-content:center;gap:34px}
+.swipe-buttons button{width:66px;height:66px;border-radius:50%;border:0;font-size:1.8rem;font-weight:900;box-shadow:0 8px 20px #24366522;background:#fff}
+.btn-no{color:#c43d2c}
+.btn-yes{color:#1f8a52}
+.swipe-buttons button:active{transform:scale(.92)}
+.finish{align-self:center;font-size:.88rem}
+
+.sheet-backdrop{position:fixed;inset:0;background:#1a2140aa;display:flex;align-items:flex-end;justify-content:center;z-index:10}
+.sheet{background:#fff;width:100%;max-width:520px;max-height:88dvh;overflow-y:auto;border-radius:24px 24px 0 0;padding:10px 18px 22px;animation:sheet-up .22s ease-out}
+@keyframes sheet-up{from{transform:translateY(40px);opacity:0}to{transform:none;opacity:1}}
+.sheet-grip{width:42px;height:5px;border-radius:5px;background:#d6dbe6;margin:0 auto 12px}
+.sheet h2{font-size:1.3rem;letter-spacing:-.03em;margin:0 0 6px}
+.sheet-step{font-size:.72rem!important;font-weight:850;letter-spacing:.1em;color:#7a879e!important;margin:14px 0 8px!important}
+.sheet-subjects{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.sheet-subjects button{border:2px solid var(--c);color:var(--c);background:#fff;border-radius:12px;padding:10px;font-weight:800}
+.sheet-subjects button.on{background:var(--c);color:#fff}
+.sheet-lessons{display:grid;gap:8px}
+.sheet-lessons button{border:1px solid #dfe5f0;background:#fbfcff;border-radius:13px;padding:12px 14px;text-align:left;display:flex;flex-direction:column;gap:2px;color:#25324b}
+.sheet-lessons button:disabled{opacity:.5}
+.sheet-lessons button.muted{background:#f2f4f8}
+.sheet-lessons small{color:#7a879e}
+.sheet-unusable{margin-top:14px;width:100%;border:1px dashed #e6b3ab;background:#fdf3f1;color:#a2342a;border-radius:12px;padding:11px;font-weight:700}
+.sheet-cancel{margin-top:8px;width:100%;border:0;background:none;color:#5d6c86;padding:10px;font-weight:700}
+
+.result-list{list-style:none;padding:0;margin:4px 0;background:#fff;border:1px solid #e0e6f0;border-radius:16px;overflow:hidden}
+.result-list li{display:flex;justify-content:space-between;gap:12px;padding:11px 14px;border-bottom:1px solid #eef1f6;font-size:.93rem}
+.result-list li:last-child{border-bottom:0}
+.result-actions{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.result-actions button{border:1px solid #d5dbea;background:#fff;border-radius:12px;padding:12px;font-weight:750;color:#3d4a8e}
+.result-actions .wa{grid-column:1/-1;background:#25d366;border-color:#25d366;color:#fff;font-size:1.05rem;padding:15px}
+.result-msg{font-size:.88rem;color:#205a3a!important}
+.result-json pre{background:#1d2340;color:#d8e0ff;border-radius:12px;padding:12px;font-size:.75rem;overflow:auto;max-height:300px}
+.result-json summary{cursor:pointer;font-weight:750;color:#4c46b8}

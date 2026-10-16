@@ -1,0 +1,12 @@
+[
+  { "id": "wis-algebra", "date": "2026-10-24", "subject": "wiskunde", "title": "Algebra" },
+  { "id": "fys-elektrostatica", "date": "2026-10-25", "subject": "fysica", "title": "Elektrostatica" },
+  { "id": "chem-atoom-pse", "date": "2026-10-31", "subject": "chemie", "title": "Basiskennis - atoomstructuur en PSE" },
+  { "id": "wis-functies", "date": "2026-11-01", "subject": "wiskunde", "title": "Functies en functieverloop" },
+  { "id": "wis-goniometrie", "date": "2026-11-07", "subject": "wiskunde", "title": "Meetkunde - Goniometrie" },
+  { "id": "fys-elektrodynamica", "date": "2026-11-08", "subject": "fysica", "title": "Elektrodynamica" },
+  { "id": "fys-druk-kern", "date": "2026-11-14", "subject": "fysica", "title": "Druk en kernfysica" },
+  { "id": "chem-binding", "date": "2026-11-15", "subject": "chemie", "title": "Chemische binding" },
+  { "id": "bio-cel", "date": "2026-11-21", "subject": "biologie", "title": "De cel, energieomzettingen en celvermeerdering" },
+  { "id": "chem-rekenen-evenwicht", "date": "2026-11-22", "subject": "chemie", "title": "Chemisch rekenen en chemisch evenwicht" }
+]

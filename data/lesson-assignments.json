@@ -1,0 +1,3075 @@
+{
+ "assignments": [
+  {
+   "questionId": "biologie-2018-arts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2018-arts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2018-arts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2018-tandarts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2018-tandarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2018-tandarts-5",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2018-tandarts-6",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2018-tandarts-8",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2018-tandarts-9",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2018-tandarts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2019-arts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2019-arts-6",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2019-arts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2019-tandarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2019-tandarts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2019-tandarts-5",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2019-tandarts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2019-tandarts-8",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2019-tandarts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2020-arts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2020-arts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2020-arts-9",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2020-tandarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2020-tandarts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2020-tandarts-6",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2020-tandarts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2020-tandarts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2021-arts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2021-arts-8",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2021-tandarts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2021-tandarts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2022-arts-8",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2022-arts-9",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2022-arts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2022-tandarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2022-tandarts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-arts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2023-arts-5",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-arts-6",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-dierenarts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2023-dierenarts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2023-dierenarts-5",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-tandarts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-tandarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2023-tandarts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2023-tandarts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-tandarts-5",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-tandarts-9",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2023-tandarts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2024-arts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2024-arts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2024-arts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2024-dierenarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2024-dierenarts-5",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2024-dierenarts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2024-dierenarts-8",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2024-tandarts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-arts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2025-arts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-dierenarts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-dierenarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-dierenarts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-dierenarts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-dierenarts-5",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-dierenarts-6",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-tandarts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2025-tandarts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2026-arts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2026-arts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2026-arts-9",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2026-dierenarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2026-dierenarts-3",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2026-dierenarts-10",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2026-tandarts-1",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2026-tandarts-2",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "biologie-2026-tandarts-4",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "biologie-2026-tandarts-7",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "biologie-2026-tandarts-9",
+   "lessonId": "bio-cel",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-arts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-arts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-arts-3",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2020-arts-4",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2020-arts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2020-arts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2020-arts-10",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-1",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-3",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-9",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2020-tandarts-10",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-arts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2021-arts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-arts-3",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-arts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2021-arts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-arts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-arts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2021-tandarts-3",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2021-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2021-tandarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2021-tandarts-9",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2022-arts-1",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2022-arts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2022-arts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2022-arts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2022-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2022-arts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2022-arts-10",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2022-tandarts-10",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2023-arts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2023-arts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-arts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-arts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2023-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2023-arts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2023-arts-10",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-2",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-dierenarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-tandarts-1",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2023-tandarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2023-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2023-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2023-tandarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2023-tandarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2023-tandarts-9",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-arts-1",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2024-arts-2",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-arts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-arts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-arts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2024-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-dierenarts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-dierenarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2024-dierenarts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2024-dierenarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2024-dierenarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2024-tandarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2024-tandarts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2024-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2024-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2025-arts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2025-arts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-arts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2025-arts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-arts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-arts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2025-dierenarts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2025-dierenarts-4",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2025-dierenarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-dierenarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-dierenarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-dierenarts-10",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-1",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2025-tandarts-9",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2026-arts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2026-arts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2026-arts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2026-arts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2026-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-arts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-1",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-3",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-9",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2026-dierenarts-10",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-tandarts-1",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2026-tandarts-3",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2026-tandarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2026-tandarts-9",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2020-arts-7",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2021-arts-2",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2021-arts-5",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2021-arts-6",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2021-arts-7",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2021-tandarts-4",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2021-tandarts-5",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2022-arts-3",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2022-arts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2022-tandarts-2",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2022-tandarts-4",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2022-tandarts-6",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2022-tandarts-7",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2022-tandarts-10",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2023-arts-2",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2023-arts-3",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2023-arts-4",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2023-arts-5",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2023-arts-6",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2023-dierenarts-1",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2023-dierenarts-3",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2023-dierenarts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2023-dierenarts-5",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2023-dierenarts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2023-tandarts-2",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2023-tandarts-4",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2023-tandarts-5",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2023-tandarts-7",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2024-arts-4",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2024-arts-5",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2024-arts-6",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2024-dierenarts-2",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2024-dierenarts-4",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2024-dierenarts-6",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2024-dierenarts-7",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2024-tandarts-2",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2024-tandarts-4",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2024-tandarts-7",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2025-arts-1",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2025-arts-3",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-arts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-arts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-dierenarts-1",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2025-dierenarts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-dierenarts-5",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-dierenarts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-dierenarts-9",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2025-tandarts-1",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-tandarts-3",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-tandarts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2025-tandarts-5",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2025-tandarts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2025-tandarts-8",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2026-arts-1",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2026-arts-3",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2026-arts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2026-arts-5",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2026-arts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2026-dierenarts-1",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2026-dierenarts-3",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2026-dierenarts-5",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2026-dierenarts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2026-tandarts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2026-tandarts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2020-arts-2",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-arts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-arts-5",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-arts-8",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2020-arts-9",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2020-arts-10",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-1",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-4",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-5",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-6",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-7",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-9",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2020-tandarts-10",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2021-arts-1",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2021-arts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2021-arts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2021-arts-7",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2021-arts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2021-arts-9",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2021-tandarts-3",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2021-tandarts-5",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2021-tandarts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2021-tandarts-9",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2021-tandarts-10",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2022-arts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2022-arts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2022-arts-4",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2022-arts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2022-arts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2022-arts-9",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2022-tandarts-1",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2022-tandarts-3",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2022-tandarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2022-tandarts-6",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2022-tandarts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2022-tandarts-10",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2023-arts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2023-arts-3",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-arts-4",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-arts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2023-arts-8",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-arts-10",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2023-dierenarts-1",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-dierenarts-2",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-dierenarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-dierenarts-7",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2023-dierenarts-8",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2023-dierenarts-9",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-1",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-3",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-4",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-9",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2023-tandarts-10",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-arts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-arts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-arts-8",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-2",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-4",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-7",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-9",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-dierenarts-10",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-tandarts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-tandarts-3",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-tandarts-4",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-tandarts-7",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2024-tandarts-8",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-tandarts-9",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2024-tandarts-10",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-arts-1",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-arts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-arts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2025-arts-4",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2025-arts-7",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-arts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2025-arts-9",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-dierenarts-1",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2025-dierenarts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-dierenarts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-dierenarts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-dierenarts-7",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2025-dierenarts-8",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2025-dierenarts-9",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-1",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-4",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-7",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-8",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2025-tandarts-10",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-arts-1",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-arts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-arts-3",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-arts-5",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-arts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-arts-7",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-arts-9",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-dierenarts-1",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-dierenarts-3",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2026-dierenarts-4",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-dierenarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-dierenarts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-dierenarts-8",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-dierenarts-10",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-tandarts-1",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-tandarts-2",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2026-tandarts-3",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-tandarts-4",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-tandarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2026-tandarts-7",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2026-tandarts-9",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-arts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2018-arts-3",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-arts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2018-arts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2018-arts-10",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2019-arts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2019-arts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2019-arts-3",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2019-arts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2019-arts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2019-arts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2019-arts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-tandarts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-tandarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-tandarts-3",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2018-tandarts-6",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2018-tandarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-1",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-3",
+   "lessonId": "chem-binding",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-4",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-5",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-7",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-8",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "chemie-2019-tandarts-9",
+   "lessonId": "chem-rekenen-evenwicht",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2018-arts-3",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2018-arts-5",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2019-arts-3",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2019-arts-5",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2019-arts-6",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2019-arts-7",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2018-tandarts-3",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2018-tandarts-4",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2018-tandarts-5",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2018-tandarts-6",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2019-tandarts-3",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "fysica-2019-tandarts-5",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2019-tandarts-6",
+   "lessonId": "fys-elektrodynamica",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "fysica-2019-tandarts-7",
+   "lessonId": "fys-elektrostatica",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "fysica-2019-tandarts-8",
+   "lessonId": "fys-druk-kern",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2018-arts-1",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2018-arts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-arts-3",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-arts-4",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2018-arts-5",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-arts-6",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-arts-10",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2019-arts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2019-arts-3",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2019-arts-4",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2019-arts-6",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2019-arts-7",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2019-arts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2019-arts-9",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-tandarts-2",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-tandarts-3",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-tandarts-4",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-tandarts-5",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-tandarts-6",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2018-tandarts-7",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2018-tandarts-8",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2019-tandarts-1",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2019-tandarts-2",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2019-tandarts-4",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
+   "questionId": "wiskunde-2019-tandarts-5",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "low"
+  },
+  {
+   "questionId": "wiskunde-2019-tandarts-6",
+   "lessonId": "wis-functies",
+   "status": "suggested",
+   "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2019-tandarts-10",
+   "lessonId": "wis-algebra",
+   "status": "suggested",
+   "confidence": "medium"
+  }
+ ],
+ "unassigned": [
+  "biologie-2018-arts-1",
+  "biologie-2018-arts-5",
+  "biologie-2018-arts-6",
+  "biologie-2018-arts-8",
+  "biologie-2018-arts-9",
+  "biologie-2018-arts-10",
+  "biologie-2018-tandarts-3",
+  "biologie-2018-tandarts-4",
+  "biologie-2018-tandarts-7",
+  "biologie-2019-arts-1",
+  "biologie-2019-arts-3",
+  "biologie-2019-arts-4",
+  "biologie-2019-arts-5",
+  "biologie-2019-arts-8",
+  "biologie-2019-arts-9",
+  "biologie-2019-tandarts-1",
+  "biologie-2019-tandarts-6",
+  "biologie-2019-tandarts-9",
+  "biologie-2020-arts-1",
+  "biologie-2020-arts-3",
+  "biologie-2020-arts-5",
+  "biologie-2020-arts-6",
+  "biologie-2020-arts-7",
+  "biologie-2020-arts-8",
+  "biologie-2020-arts-10",
+  "biologie-2020-tandarts-1",
+  "biologie-2020-tandarts-5",
+  "biologie-2020-tandarts-8",
+  "biologie-2020-tandarts-9",
+  "biologie-2021-arts-2",
+  "biologie-2021-arts-3",
+  "biologie-2021-arts-4",
+  "biologie-2021-arts-7",
+  "biologie-2021-arts-9",
+  "biologie-2021-arts-10",
+  "biologie-2021-tandarts-4",
+  "biologie-2021-tandarts-6",
+  "biologie-2021-tandarts-9",
+  "biologie-2021-tandarts-10",
+  "biologie-2022-arts-2",
+  "biologie-2022-arts-5",
+  "biologie-2022-arts-6",
+  "biologie-2022-arts-7",
+  "biologie-2022-tandarts-1",
+  "biologie-2022-tandarts-5",
+  "biologie-2022-tandarts-6",
+  "biologie-2022-tandarts-7",
+  "biologie-2022-tandarts-8",
+  "biologie-2022-tandarts-9",
+  "biologie-2022-tandarts-10",
+  "biologie-2023-arts-1",
+  "biologie-2023-arts-2",
+  "biologie-2023-arts-3",
+  "biologie-2023-arts-7",
+  "biologie-2023-arts-8",
+  "biologie-2023-arts-9",
+  "biologie-2023-arts-10",
+  "biologie-2023-dierenarts-2",
+  "biologie-2023-tandarts-6",
+  "biologie-2023-tandarts-7",
+  "biologie-2023-tandarts-8",
+  "biologie-2024-arts-3",
+  "biologie-2024-arts-4",
+  "biologie-2024-arts-7",
+  "biologie-2024-arts-8",
+  "biologie-2024-arts-9",
+  "biologie-2024-dierenarts-1",
+  "biologie-2024-dierenarts-3",
+  "biologie-2024-dierenarts-6",
+  "biologie-2024-dierenarts-10",
+  "biologie-2024-tandarts-2",
+  "biologie-2024-tandarts-6",
+  "biologie-2024-tandarts-8",
+  "biologie-2024-tandarts-9",
+  "biologie-2025-arts-1",
+  "biologie-2025-arts-2",
+  "biologie-2025-arts-5",
+  "biologie-2025-arts-6",
+  "biologie-2025-arts-9",
+  "biologie-2025-arts-10",
+  "biologie-2025-dierenarts-7",
+  "biologie-2025-dierenarts-8",
+  "biologie-2025-dierenarts-9",
+  "biologie-2025-dierenarts-10",
+  "biologie-2025-tandarts-2",
+  "biologie-2025-tandarts-4",
+  "biologie-2025-tandarts-6",
+  "biologie-2025-tandarts-7",
+  "biologie-2025-tandarts-8",
+  "biologie-2025-tandarts-10",
+  "biologie-2026-arts-2",
+  "biologie-2026-arts-4",
+  "biologie-2026-arts-5",
+  "biologie-2026-arts-6",
+  "biologie-2026-arts-8",
+  "biologie-2026-arts-10",
+  "biologie-2026-dierenarts-1",
+  "biologie-2026-dierenarts-4",
+  "biologie-2026-dierenarts-5",
+  "biologie-2026-dierenarts-6",
+  "biologie-2026-dierenarts-7",
+  "biologie-2026-dierenarts-9",
+  "biologie-2026-tandarts-3",
+  "biologie-2026-tandarts-6",
+  "biologie-2026-tandarts-8",
+  "biologie-2026-tandarts-10",
+  "chemie-2021-arts-9",
+  "chemie-2021-arts-10",
+  "chemie-2021-tandarts-1",
+  "chemie-2021-tandarts-2",
+  "chemie-2021-tandarts-10",
+  "chemie-2022-arts-2",
+  "chemie-2022-arts-4",
+  "chemie-2022-arts-9",
+  "chemie-2022-tandarts-9",
+  "chemie-2023-arts-1",
+  "chemie-2023-arts-9",
+  "chemie-2023-dierenarts-9",
+  "chemie-2023-dierenarts-10",
+  "chemie-2023-tandarts-3",
+  "chemie-2023-tandarts-5",
+  "chemie-2023-tandarts-10",
+  "chemie-2024-arts-9",
+  "chemie-2024-arts-10",
+  "chemie-2024-dierenarts-4",
+  "chemie-2024-dierenarts-9",
+  "chemie-2024-dierenarts-10",
+  "chemie-2024-tandarts-1",
+  "chemie-2024-tandarts-7",
+  "chemie-2024-tandarts-9",
+  "chemie-2024-tandarts-10",
+  "chemie-2025-arts-9",
+  "chemie-2025-arts-10",
+  "chemie-2025-dierenarts-1",
+  "chemie-2025-dierenarts-5",
+  "chemie-2025-dierenarts-9",
+  "chemie-2025-tandarts-2",
+  "chemie-2025-tandarts-10",
+  "chemie-2026-arts-1",
+  "chemie-2026-arts-5",
+  "chemie-2026-arts-9",
+  "chemie-2026-arts-10",
+  "chemie-2026-dierenarts-2",
+  "chemie-2026-dierenarts-8",
+  "chemie-2026-tandarts-2",
+  "chemie-2026-tandarts-10",
+  "fysica-2020-arts-1",
+  "fysica-2020-arts-4",
+  "fysica-2020-arts-6",
+  "fysica-2020-tandarts-5",
+  "fysica-2020-tandarts-7",
+  "fysica-2020-tandarts-9",
+  "fysica-2021-arts-1",
+  "fysica-2021-arts-3",
+  "fysica-2021-tandarts-1",
+  "fysica-2021-tandarts-3",
+  "fysica-2021-tandarts-7",
+  "fysica-2021-tandarts-9",
+  "fysica-2021-tandarts-10",
+  "fysica-2022-arts-1",
+  "fysica-2022-arts-5",
+  "fysica-2022-arts-6",
+  "fysica-2022-arts-7",
+  "fysica-2022-arts-8",
+  "fysica-2022-arts-10",
+  "fysica-2022-tandarts-3",
+  "fysica-2022-tandarts-8",
+  "fysica-2022-tandarts-9",
+  "fysica-2023-arts-1",
+  "fysica-2023-arts-7",
+  "fysica-2023-arts-8",
+  "fysica-2023-arts-9",
+  "fysica-2023-arts-10",
+  "fysica-2023-dierenarts-2",
+  "fysica-2023-dierenarts-7",
+  "fysica-2023-dierenarts-10",
+  "fysica-2023-tandarts-1",
+  "fysica-2023-tandarts-3",
+  "fysica-2023-tandarts-8",
+  "fysica-2023-tandarts-9",
+  "fysica-2023-tandarts-10",
+  "fysica-2024-arts-1",
+  "fysica-2024-arts-7",
+  "fysica-2024-arts-8",
+  "fysica-2024-arts-9",
+  "fysica-2024-arts-10",
+  "fysica-2024-dierenarts-3",
+  "fysica-2024-dierenarts-8",
+  "fysica-2024-dierenarts-9",
+  "fysica-2024-dierenarts-10",
+  "fysica-2024-tandarts-1",
+  "fysica-2024-tandarts-3",
+  "fysica-2024-tandarts-8",
+  "fysica-2024-tandarts-9",
+  "fysica-2024-tandarts-10",
+  "fysica-2025-arts-7",
+  "fysica-2025-arts-9",
+  "fysica-2025-arts-10",
+  "fysica-2025-dierenarts-2",
+  "fysica-2025-dierenarts-7",
+  "fysica-2025-dierenarts-8",
+  "fysica-2025-dierenarts-10",
+  "fysica-2025-tandarts-2",
+  "fysica-2025-tandarts-9",
+  "fysica-2025-tandarts-10",
+  "fysica-2026-arts-2",
+  "fysica-2026-arts-7",
+  "fysica-2026-arts-8",
+  "fysica-2026-arts-9",
+  "fysica-2026-arts-10",
+  "fysica-2026-dierenarts-7",
+  "fysica-2026-dierenarts-8",
+  "fysica-2026-dierenarts-9",
+  "fysica-2026-dierenarts-10",
+  "fysica-2026-tandarts-2",
+  "fysica-2026-tandarts-7",
+  "fysica-2026-tandarts-8",
+  "fysica-2026-tandarts-9",
+  "wiskunde-2020-arts-4",
+  "wiskunde-2020-arts-7",
+  "wiskunde-2021-arts-2",
+  "wiskunde-2021-arts-4",
+  "wiskunde-2021-arts-6",
+  "wiskunde-2021-arts-10",
+  "wiskunde-2021-tandarts-1",
+  "wiskunde-2021-tandarts-4",
+  "wiskunde-2021-tandarts-6",
+  "wiskunde-2021-tandarts-7",
+  "wiskunde-2022-arts-8",
+  "wiskunde-2022-arts-10",
+  "wiskunde-2022-tandarts-2",
+  "wiskunde-2022-tandarts-4",
+  "wiskunde-2022-tandarts-7",
+  "wiskunde-2022-tandarts-9",
+  "wiskunde-2023-arts-5",
+  "wiskunde-2023-arts-7",
+  "wiskunde-2023-arts-9",
+  "wiskunde-2023-dierenarts-3",
+  "wiskunde-2023-dierenarts-4",
+  "wiskunde-2023-dierenarts-6",
+  "wiskunde-2023-dierenarts-10",
+  "wiskunde-2023-tandarts-6",
+  "wiskunde-2023-tandarts-7",
+  "wiskunde-2024-arts-5",
+  "wiskunde-2024-dierenarts-1",
+  "wiskunde-2024-dierenarts-8",
+  "wiskunde-2024-tandarts-1",
+  "wiskunde-2024-tandarts-5",
+  "wiskunde-2024-tandarts-6",
+  "wiskunde-2025-arts-5",
+  "wiskunde-2025-arts-6",
+  "wiskunde-2025-arts-10",
+  "wiskunde-2025-dierenarts-5",
+  "wiskunde-2025-dierenarts-10",
+  "wiskunde-2025-tandarts-9",
+  "wiskunde-2026-arts-4",
+  "wiskunde-2026-dierenarts-2",
+  "wiskunde-2026-dierenarts-7",
+  "wiskunde-2026-dierenarts-9",
+  "wiskunde-2026-tandarts-6",
+  "wiskunde-2026-tandarts-10",
+  "chemie-2018-arts-1",
+  "chemie-2018-arts-5",
+  "chemie-2018-arts-9",
+  "chemie-2019-arts-8",
+  "chemie-2019-arts-9",
+  "chemie-2019-arts-10",
+  "chemie-2018-tandarts-8",
+  "chemie-2018-tandarts-9",
+  "chemie-2018-tandarts-10",
+  "chemie-2019-tandarts-6",
+  "chemie-2019-tandarts-10",
+  "fysica-2018-arts-1",
+  "fysica-2018-arts-2",
+  "fysica-2018-arts-7",
+  "fysica-2018-arts-8",
+  "fysica-2018-arts-10",
+  "fysica-2019-arts-1",
+  "fysica-2019-arts-2",
+  "fysica-2019-arts-4",
+  "fysica-2019-arts-8",
+  "fysica-2019-arts-9",
+  "fysica-2019-arts-10",
+  "fysica-2018-tandarts-1",
+  "fysica-2018-tandarts-2",
+  "fysica-2018-tandarts-7",
+  "fysica-2018-tandarts-8",
+  "fysica-2018-tandarts-9",
+  "fysica-2018-tandarts-10",
+  "fysica-2019-tandarts-1",
+  "fysica-2019-tandarts-2",
+  "fysica-2019-tandarts-4",
+  "fysica-2019-tandarts-9",
+  "fysica-2019-tandarts-10",
+  "wiskunde-2018-arts-8",
+  "wiskunde-2018-arts-9",
+  "wiskunde-2019-arts-1",
+  "wiskunde-2018-tandarts-1",
+  "wiskunde-2018-tandarts-9",
+  "wiskunde-2018-tandarts-10",
+  "wiskunde-2019-tandarts-3",
+  "wiskunde-2019-tandarts-7",
+  "wiskunde-2019-tandarts-9"
+ ]
+}
