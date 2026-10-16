@@ -625,6 +625,12 @@
    "confidence": "low"
   },
   {
+   "questionId": "chemie-2021-tandarts-2",
+   "lessonId": "chem-atoom-pse",
+   "status": "suggested",
+   "confidence": "medium"
+  },
+  {
    "questionId": "chemie-2021-tandarts-3",
    "lessonId": "chem-atoom-pse",
    "status": "suggested",
@@ -1798,7 +1804,7 @@
    "questionId": "wiskunde-2022-arts-4",
    "lessonId": "wis-goniometrie",
    "status": "suggested",
-   "confidence": "low"
+   "confidence": "medium"
   },
   {
    "questionId": "wiskunde-2022-arts-5",
@@ -1823,6 +1829,12 @@
    "lessonId": "wis-functies",
    "status": "suggested",
    "confidence": "high"
+  },
+  {
+   "questionId": "wiskunde-2022-tandarts-2",
+   "lessonId": "wis-goniometrie",
+   "status": "suggested",
+   "confidence": "medium"
   },
   {
    "questionId": "wiskunde-2022-tandarts-3",
@@ -1882,7 +1894,7 @@
    "questionId": "wiskunde-2023-arts-8",
    "lessonId": "wis-functies",
    "status": "suggested",
-   "confidence": "medium"
+   "confidence": "high"
   },
   {
    "questionId": "wiskunde-2023-arts-10",
@@ -2308,7 +2320,7 @@
    "questionId": "wiskunde-2026-tandarts-1",
    "lessonId": "wis-goniometrie",
    "status": "suggested",
-   "confidence": "medium"
+   "confidence": "high"
   },
   {
    "questionId": "wiskunde-2026-tandarts-2",
@@ -2877,7 +2889,6 @@
   "chemie-2021-arts-9",
   "chemie-2021-arts-10",
   "chemie-2021-tandarts-1",
-  "chemie-2021-tandarts-2",
   "chemie-2021-tandarts-10",
   "chemie-2022-arts-2",
   "chemie-2022-arts-4",
@@ -2998,7 +3009,6 @@
   "wiskunde-2021-tandarts-7",
   "wiskunde-2022-arts-8",
   "wiskunde-2022-arts-10",
-  "wiskunde-2022-tandarts-2",
   "wiskunde-2022-tandarts-4",
   "wiskunde-2022-tandarts-7",
   "wiskunde-2022-tandarts-9",

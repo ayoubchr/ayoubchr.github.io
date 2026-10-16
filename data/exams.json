@@ -4169,14 +4169,14 @@
    "number": 4,
    "stem": "42,0 g natriumwaterstofcarbonaat werd door verhitting volledig ontbonden tot\neen constante massa van 26,5 g. Welke reactievergelijking is correct voor deze\nontbinding?",
    "options": [
-    "NaHCO3(s)  NaOH(s)+ CO2(g)",
-    "2NaHCO3(s)  Na2O2(s)+ CO2(g) + HCOOH(g)",
-    "2NaHCO3(s)  Na2O(s)+ 2CO2(g) + H2O(g)",
-    "2NaHCO3(s)  Na2CO3(s)+ CO2(g) + H2O(g)"
+    "NaHCO3(s) → NaOH(s)+ CO2(g)",
+    "2NaHCO3(s) → Na2O2(s)+ CO2(g) + HCOOH(g)",
+    "2NaHCO3(s) → Na2O(s)+ 2CO2(g) + H2O(g)",
+    "2NaHCO3(s) → Na2CO3(s)+ CO2(g) + H2O(g)"
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2020-arts-5",
@@ -4329,7 +4329,7 @@
    "year": 2020,
    "track": "tandarts",
    "number": 5,
-   "stem": "In onderstaande tabel worden voor vier experimenten (I,II,III en IV) de\nbeginhoeveelheden (n0) van Fe en het beginvolume (v0) van een HCl-\noplossing met c=6,0 mol.L-1 weergegeven voor de reactie:\n\nFe(s) + 2 HCl(aq)  FeCl2(aq) + H2(g)\n\nIn welke experiment, waarbij Fe en een HCl-oplossing worden\nsamengevoegd, wordt de grootste hoeveelheid (mol) H2 gevormd?",
+   "stem": "In onderstaande tabel worden voor vier experimenten (I,II,III en IV) de\nbeginhoeveelheden (n0) van Fe en het beginvolume (v0) van een HCl-\noplossing met c=6,0 mol.L-1 weergegeven voor de reactie:\n\nFe(s) + 2 HCl(aq) → FeCl2(aq) + H2(g)\n\nIn welke experiment, waarbij Fe en een HCl-oplossing worden\nsamengevoegd, wordt de grootste hoeveelheid (mol) H2 gevormd?",
    "options": [
     "I www.keu6.be Page 3",
     "II\n\nBrenda Casteleyn, PhD",
@@ -4338,7 +4338,7 @@
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2020-tandarts-6",
@@ -4347,7 +4347,7 @@
    "year": 2020,
    "track": "tandarts",
    "number": 6,
-   "stem": "Gegeven is de reactie 2A(aq) + B(aq)  C(aq) + 2D(aq)\n\nDe gemiddelde reactiesnelheid vgem voor deze reactie in een tijdsinterval\n∆t wordt als volgt gedefiniëerd:\n\nVgem = − ∆[������]\n 2.∆������\n\nTijdens de eerste minuut van de reactie neemt de concentratie van stof\nD toe van 0,000 mol.L-1 naar 0,050 mol.L-1.\n\nHoeveel bedaagt de gemiddelde reactiesnelheid gedurende deze eerste\nminuut?",
+   "stem": "Gegeven is de reactie 2A(aq) + B(aq) → C(aq) + 2D(aq)\n\nDe gemiddelde reactiesnelheid vgem voor deze reactie in een tijdsinterval\n∆t wordt als volgt gedefiniëerd:\n\nVgem = − ∆[A]\n 2.∆t\n\nTijdens de eerste minuut van de reactie neemt de concentratie van stof\nD toe van 0,000 mol.L-1 naar 0,050 mol.L-1.\n\nHoeveel bedaagt de gemiddelde reactiesnelheid gedurende deze eerste\nminuut?",
    "options": [
     "2,5.10-2 mol.L-1.min-1",
     "5,0.10-2 mol.L-1.min-1",
@@ -4356,7 +4356,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2020-tandarts-7",
@@ -4563,7 +4563,7 @@
    "year": 2021,
    "track": "arts",
    "number": 8,
-   "stem": "In een 0,25 mol L-1 oplossing van de base strychnine (rattenvergif, C21H22N2O2)\nis bij 25°C de [������������−]= 7,0.10-4 mol L-1. Welke waarde heeft de baseconstante Kb\n\nvan strychnine bij 25°C?",
+   "stem": "In een 0,25 mol L-1 oplossing van de base strychnine (rattenvergif, C21H22N2O2)\nis bij 25°C de [OH−]= 7,0.10-4 mol L-1. Welke waarde heeft de baseconstante Kb\n\nvan strychnine bij 25°C?",
    "options": [
     "2,0.10-6",
     "6,7.10-4",
@@ -4572,7 +4572,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2021-arts-9",
@@ -4635,7 +4635,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 2,
-   "stem": "In een mengsel van de isotopen 54Fe en 58Fe, is de verhouding\n\n������������������������������������ ������������������������������������������������������ 29\n������������������������������������ ������������������������������������������������ = 26\nWat is het percentage 54Fe in dat isotopenmengsel?",
+   "stem": "In een mengsel van de isotopen 54Fe en 58Fe, is de verhouding\n\naantal neutronen 29\naantal protonen = 26\nWat is het percentage 54Fe in dat isotopenmengsel?",
    "options": [
     "25%",
     "40%",
@@ -4644,7 +4644,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2021-tandarts-3",
@@ -4671,7 +4671,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 4,
-   "stem": "Men brengt 1,0 mol Cu in 200 mL H2SO4-oplossing met c = 6,0 mol L-1.\n\nDoor verwarming van dit mengsel wordt er SO2-gas gevormd volgens de\naflopende reactie:\n\nCu (s) + 2 H2SO4 (aq)  CuSO4(aq) + SO2 (g) + 2 H2O (I)\n\nWelke hoeveelheden SO2 wordt er gevormd?",
+   "stem": "Men brengt 1,0 mol Cu in 200 mL H2SO4-oplossing met c = 6,0 mol L-1.\n\nDoor verwarming van dit mengsel wordt er SO2-gas gevormd volgens de\naflopende reactie:\n\nCu (s) + 2 H2SO4 (aq) → CuSO4(aq) + SO2 (g) + 2 H2O (I)\n\nWelke hoeveelheden SO2 wordt er gevormd?",
    "options": [
     "0,40 mol",
     "0,60 mol",
@@ -4680,7 +4680,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2021-tandarts-5",
@@ -4743,7 +4743,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 9,
-   "stem": "Gegeven is de niet-uitgebalanceerde redoxreactie:\n\n…ClO3- (q) + …I2 (aq) + … H2O (I)  …IO3- (aq) + … +… Cl- (aq) + … H+ (aq)\n\nHoeveel elektronen worden er in totaal uitgewisseld wanneer deze\nredoxreactie met zo klein mogelijke gehele coëfficiënten uitgebalanceerd\nwordt?",
+   "stem": "Gegeven is de niet-uitgebalanceerde redoxreactie:\n\n…ClO3- (q) + …I2 (aq) + … H2O (I) → …IO3- (aq) + … +… Cl- (aq) + … H+ (aq)\n\nHoeveel elektronen worden er in totaal uitgewisseld wanneer deze\nredoxreactie met zo klein mogelijke gehele coëfficiënten uitgebalanceerd\nwordt?",
    "options": [
     "6",
     "12",
@@ -4752,7 +4752,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2021-tandarts-10",
@@ -4851,7 +4851,7 @@
    "year": 2022,
    "track": "arts",
    "number": 5,
-   "stem": "De snelheid van de reactie\n\n2HgCl2 (aq) + C2O42-(aq) → 2 Cl- (aq) + 2 CO2 (g) + Hg2Cl2 (s) kan uitgedrukt worden\ndoor de vergelijking v = k[������������������������2]������[������2������42−]������\n\nIn enkele experimenten, uitgevoerd bij eenzelfde temperatuur, werd het\nverband tussen de beginconcentraties van de reagentia en de beginsnelheid\n(v0) van de reactie onderzocht.\n\nExperiment [������������������������2]0 (mol L-1) [������2������42−]0 (mol L-1) V0 (mol L-1 s-1)\n 0,10 2,5.10-7\n1 0,20 4,0.10-6\n 8,0.10-6\n2 0,20 0,40\n …\n3 0,40 0,40\n\n4 0,10 0,60\n\nWat is de beginsnelheid (v0) van de reactiein experiment 4?",
+   "stem": "De snelheid van de reactie\n\n2HgCl2 (aq) + C2O42-(aq) → 2 Cl- (aq) + 2 CO2 (g) + Hg2Cl2 (s) kan uitgedrukt worden\ndoor de vergelijking v = k[HgCl2]x[C2O42−]y\n\nIn enkele experimenten, uitgevoerd bij eenzelfde temperatuur, werd het\nverband tussen de beginconcentraties van de reagentia en de beginsnelheid\n(v0) van de reactie onderzocht.\n\nExperiment [HgCl2]0 (mol L-1) [C2O42−]0 (mol L-1) V0 (mol L-1 s-1)\n 0,10 2,5.10-7\n1 0,20 4,0.10-6\n 8,0.10-6\n2 0,20 0,40\n …\n3 0,40 0,40\n\n4 0,10 0,60\n\nWat is de beginsnelheid (v0) van de reactiein experiment 4?",
    "options": [
     "1,5.10-5mol.L-1s-1",
     "2,5.10-6mol.L-1s-1",
@@ -4860,7 +4860,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2022-arts-6",
@@ -4869,7 +4869,7 @@
    "year": 2022,
    "track": "arts",
    "number": 6,
-   "stem": "Hieronder worden drie verschillende moleculen voorgesteld als\n\fVoor het evenwicht H2 (g) + I2 (g)  2 HI (g) is bij een bepaalde temperatuur de\nevenwichtsconstante K = 1. Welke van de onderstaande afbeeldingen stelt bij\ndie temperatuur een klein gedeelte van dat evenwichtssysteem voor?",
+   "stem": "Hieronder worden drie verschillende moleculen voorgesteld als\n\fVoor het evenwicht H2 (g) + I2 (g) 2 HI (g) is bij een bepaalde temperatuur de\nevenwichtsconstante K = 1. Welke van de onderstaande afbeeldingen stelt bij\ndie temperatuur een klein gedeelte van dat evenwichtssysteem voor?",
    "options": [
     "Afbeelding I",
     "Afbeelding II",
@@ -4878,7 +4878,7 @@
    ],
    "answer": null,
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2022-arts-7",
@@ -5537,14 +5537,14 @@
    "number": 4,
    "stem": "0,20 mol natriumfosfaat en 0,60 mol calciumchloride worden samen in water opgelost. Er ontstaat\neen neerslag. Welke uitspraak in verband met de concentraties van de ionen in de oplossing nà de\nneerslagvorming is correct?",
    "options": [
-    "[������������+] > [������������−] > [������������43−] > [������������2+]",
-    "[������������+] > [������������−] > [������������2+] > [������������43−]",
-    "[������������−] > [������������+] > [������������43−] > [������������2+]",
-    "[������������−] > [������������+] > [������������2+] > [������������43−]"
+    "[Na+] > [Cl−] > [PO43−] > [Ca2+]",
+    "[Na+] > [Cl−] > [Ca2+] > [PO43−]",
+    "[Cl−] > [Na+] > [PO43−] > [Ca2+]",
+    "[Cl−] > [Na+] > [Ca2+] > [PO43−]"
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2023-tandarts-5",
@@ -6669,7 +6669,7 @@
    "year": 2026,
    "track": "arts",
    "number": 4,
-   "stem": "Op het etiket van een fles bleekwater (NaOCl-oplossing) staat dat het gehalte\n“15°chl” bedraagt. Dit betekent dat er per liter oplossing 15,0 L Cl₂(g) gevormd\nwordt via onderstaande reactie.\n\n ������������������������������(������������) + 2 ������������������(������������) → ������������₂(������) + ������₂������(������) + ������������������������(������������)\n\nDit volume dichloor wordt gemeten bij omstandigheden van 273 K en 1013\nhPa.\n\nHoeveel bedraagt de massaconcentratie aan NaOCl in het bleekwater?",
+   "stem": "Op het etiket van een fles bleekwater (NaOCl-oplossing) staat dat het gehalte\n“15°chl” bedraagt. Dit betekent dat er per liter oplossing 15,0 L Cl₂(g) gevormd\nwordt via onderstaande reactie.\n\n NaOCl(aq) + 2 HCl(aq) → Cl₂(g) + H₂O(l) + NaCl(aq)\n\nDit volume dichloor wordt gemeten bij omstandigheden van 273 K en 1013\nhPa.\n\nHoeveel bedraagt de massaconcentratie aan NaOCl in het bleekwater?",
    "options": [
     "50 g L⁻¹",
     "3,3 g L⁻¹",
@@ -6678,7 +6678,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-arts-5",
@@ -6687,7 +6687,7 @@
    "year": 2026,
    "track": "arts",
    "number": 5,
-   "stem": "De stoffen A₂ en B₂ reageren met elkaar volgens de reactie:\n ������₂ + ������₂ ⇌ 2 ������������\n\nHoe wordt het effect van een katalysator op deze reactie correct omschreven?",
+   "stem": "De stoffen A₂ en B₂ reageren met elkaar volgens de reactie:\n A₂ + B₂ ⇌ 2 AB\n\nHoe wordt het effect van een katalysator op deze reactie correct omschreven?",
    "options": [
     "De katalysator verlaagt de activeringsenergie van de teruggaande\n reactie maar heeft geen invloed op de heengaande reactie.",
     "De katalysator verlaagt de activeringsenergie van zowel de\n heengaande als van de teruggaande reactie.",
@@ -6696,7 +6696,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-arts-6",
@@ -6705,7 +6705,7 @@
    "year": 2026,
    "track": "arts",
    "number": 6,
-   "stem": "Gegeven is de onderstaande evenwichtsreactie, samen met haar\nevenwichtsconstante bij een bepaalde temperatuur:\n\n ������₂(������) + 4 ������(������) ⇌ 2 ������������₂(������) ������������������ ������������ = 4,8.\n\nWelke berekening levert de waarde van de evenwichtsconstante (Kc′) voor\nonderstaande reactie bij diezelfde temperatuur?\n\f ������������₂(������) ⇌ ½ ������₂(������) + 2 ������(������)",
+   "stem": "Gegeven is de onderstaande evenwichtsreactie, samen met haar\nevenwichtsconstante bij een bepaalde temperatuur:\n\n A₂(g) + 4 C(g) ⇌ 2 AC₂(g) met Kc = 4,8.\n\nWelke berekening levert de waarde van de evenwichtsconstante (Kc′) voor\nonderstaande reactie bij diezelfde temperatuur?\n\f AC₂(g) ⇌ ½ A₂(g) + 2 C(g)",
    "options": [
     "1/√4,8",
     "1/2,4",
@@ -6714,7 +6714,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-arts-7",
@@ -6759,7 +6759,7 @@
    "year": 2026,
    "track": "arts",
    "number": 9,
-   "stem": "Bij de lancering van de spaceshuttle werd als vaste brandstof een mengsel van\naluminium en ammoniumperchloraat gebruikt.\nDe reactievergelijking voor de zeer exotherme reactie tussen beide stoffen kan\nals volgt worden geschreven:\n 10 ������������(������) + 6 ������������₄������������������₄(������)\n\n → 5 ������������₂������₃(������) + 3 ������₂(������) + 6 ������������������(������) + 9 ������₂������(������)\n\fWelk element wordt tijdens deze reactie gereduceerd?",
+   "stem": "Bij de lancering van de spaceshuttle werd als vaste brandstof een mengsel van\naluminium en ammoniumperchloraat gebruikt.\nDe reactievergelijking voor de zeer exotherme reactie tussen beide stoffen kan\nals volgt worden geschreven:\n 10 Al(s) + 6 NH₄ClO₄(s)\n\n → 5 Al₂O₃(s) + 3 N₂(g) + 6 HCl(g) + 9 H₂O(g)\n\fWelk element wordt tijdens deze reactie gereduceerd?",
    "options": [
     "Waterstof",
     "Stikstof",
@@ -6768,7 +6768,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-arts-10",
@@ -6813,7 +6813,7 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 2,
-   "stem": "Bij welke van onderstaande koolwaterstoffen liggen de vier koolstofatomen op\néén rechte lijn?\n\n������ ������ − ������ ≡ ������ − ������������₂ − ������������₃ ������������ ������������₃ − ������������ = ������������ − ������������₃ ������������������ ������������₂ = ������\n = ������������ − ������������₃",
+   "stem": "Bij welke van onderstaande koolwaterstoffen liggen de vier koolstofatomen op\néén rechte lijn?\n\nI H − C ≡ C − CH₂ − CH₃ II CH₃ − CH = CH − CH₃ III CH₂ = C\n = CH − CH₃",
    "options": [
     "Bij koolwaterstof III",
     "Bij koolwaterstof II",
@@ -6822,7 +6822,7 @@
    ],
    "answer": "D",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-dierenarts-3",
@@ -6885,7 +6885,7 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 6,
-   "stem": "Gegeven:\n\n ������������(������������)₂(������) ⇌ ������������²⁺(������������) + 2 ������������⁻(������������)\nWelke stof kan worden toegevoegd om het weergegeven evenwicht bij een\nconstante temperatuur van 20 °C naar rechts te doen verschuiven?",
+   "stem": "Gegeven:\n\n Ca(OH)₂(s) ⇌ Ca²⁺(aq) + 2 OH⁻(aq)\nWelke stof kan worden toegevoegd om het weergegeven evenwicht bij een\nconstante temperatuur van 20 °C naar rechts te doen verschuiven?",
    "options": [
     "HCl",
     "KCl",
@@ -6894,7 +6894,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-dierenarts-7",
@@ -6903,7 +6903,7 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 7,
-   "stem": "Hoeveel bedraagt bij 25 °C de concentratie (c) van een oplossing van een zwak\néénwaardig zuur (HX) die dezelfde pH heeft als een HCl-oplossing met [H₃O⁺] =\n1,0 · 10⁻⁴ mol L⁻¹?\n\n ������ₐ(������������) = 2,0 · 10⁻⁷ ������������������ 25 °������",
+   "stem": "Hoeveel bedraagt bij 25 °C de concentratie (c) van een oplossing van een zwak\néénwaardig zuur (HX) die dezelfde pH heeft als een HCl-oplossing met [H₃O⁺] =\n1,0 · 10⁻⁴ mol L⁻¹?\n\n Kₐ(HX) = 2,0 · 10⁻⁷ bij 25 °C",
    "options": [
     "5,0 · 10⁻² mol L⁻¹",
     "5,0 · 10⁻³ mol L⁻¹",
@@ -6912,7 +6912,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-dierenarts-8",
@@ -6939,7 +6939,7 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 9,
-   "stem": "Voor onderstaand evenwicht bij 25 °C heeft de evenwichtsconstante (Kc) een\nwaarde van 1 · 10²¹.\n\n ������������(������) + ������������²⁺(������������) ⇌ ������������²⁺(������������) + ������������(������)\n\nIn welke sets worden respectievelijk de sterktes van de oxidatoren en de\nsterktes van de reductoren correct vergeleken?\n\n Oxidatorsterkte Reductorsterkte",
+   "stem": "Voor onderstaand evenwicht bij 25 °C heeft de evenwichtsconstante (Kc) een\nwaarde van 1 · 10²¹.\n\n Zn(s) + Sn²⁺(aq) ⇌ Zn²⁺(aq) + Sn(s)\n\nIn welke sets worden respectievelijk de sterktes van de oxidatoren en de\nsterktes van de reductoren correct vergeleken?\n\n Oxidatorsterkte Reductorsterkte",
    "options": [
     "Sn²⁺ < Zn²⁺ Zn < Sn",
     "Sn²⁺ > Zn²⁺ Zn > Sn",
@@ -6948,7 +6948,7 @@
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-dierenarts-10",
@@ -6957,7 +6957,7 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 10,
-   "stem": "Gegeven is volgende reactievergelijking waarin X een onverzadigde\nkoolwaterstof en Y een verzadigde koolwaterstof voorstellen:\n\n ������ + 4 ������₂ → ������\nHoeveel π-elektronen bevat de onverzadigde koolwaterstof X?",
+   "stem": "Gegeven is volgende reactievergelijking waarin X een onverzadigde\nkoolwaterstof en Y een verzadigde koolwaterstof voorstellen:\n\n X + 4 H₂ → Y\nHoeveel π-elektronen bevat de onverzadigde koolwaterstof X?",
    "options": [
     "4",
     "6",
@@ -6966,7 +6966,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-tandarts-1",
@@ -7047,7 +7047,7 @@
    "year": 2026,
    "track": "tandarts",
    "number": 5,
-   "stem": "Voor de hierna weergegeven reactie is de orde met betrekking tot NO gelijk\naan 2 en met betrekking tot O₂ gelijk aan 1.\n\n 2 ������������(������) + ������₂(������) → 2 ������������₂(������)\n\nIn onderstaande tabel worden voor twee experimenten bij 25 °C de\nbeginconcentraties van de reagentia en de overeenstemmende reactiesnelheid\nweergegeven.\n\nExperiment [NO]₀ (mol L⁻¹) [O₂]₀ (mol L⁻¹) v₀ (mol L⁻¹ s⁻¹)\n\nI 2,0 · 10⁻³ 2,0 · 10⁻³ 4,2 · 10⁻⁵\n\nII 4,0 · 10⁻³ 1,0 · 10⁻³\n\nHoeveel bedraagt de beginsnelheid v₀ van de reactie in experiment II?",
+   "stem": "Voor de hierna weergegeven reactie is de orde met betrekking tot NO gelijk\naan 2 en met betrekking tot O₂ gelijk aan 1.\n\n 2 NO(g) + O₂(g) → 2 NO₂(g)\n\nIn onderstaande tabel worden voor twee experimenten bij 25 °C de\nbeginconcentraties van de reagentia en de overeenstemmende reactiesnelheid\nweergegeven.\n\nExperiment [NO]₀ (mol L⁻¹) [O₂]₀ (mol L⁻¹) v₀ (mol L⁻¹ s⁻¹)\n\nI 2,0 · 10⁻³ 2,0 · 10⁻³ 4,2 · 10⁻⁵\n\nII 4,0 · 10⁻³ 1,0 · 10⁻³\n\nHoeveel bedraagt de beginsnelheid v₀ van de reactie in experiment II?",
    "options": [
     "3,4 · 10⁻⁴ mol L⁻¹ s⁻¹",
     "8,4 · 10⁻⁵ mol L⁻¹ s⁻¹",
@@ -7056,7 +7056,7 @@
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-tandarts-6",
@@ -7065,7 +7065,7 @@
    "year": 2026,
    "track": "tandarts",
    "number": 6,
-   "stem": "Gegeven is volgende evenwichtsreactie:\n\n 2 ������������₂(������) + ������₂(������) ⇌ 2 ������������₃(������)\n\nIn een experiment wordt 2,00 mol zwaveldioxidegas gemengd met 2,00 mol\ndizuurstof. Bij het evenwicht is de totale hoeveelheid gas 3,40 mol.\n\nWelke hoeveelheid zwaveltrioxidegas is er aanwezig in het\nevenwichtsmengsel?",
+   "stem": "Gegeven is volgende evenwichtsreactie:\n\n 2 SO₂(g) + O₂(g) ⇌ 2 SO₃(g)\n\nIn een experiment wordt 2,00 mol zwaveldioxidegas gemengd met 2,00 mol\ndizuurstof. Bij het evenwicht is de totale hoeveelheid gas 3,40 mol.\n\nWelke hoeveelheid zwaveltrioxidegas is er aanwezig in het\nevenwichtsmengsel?",
    "options": [
     "0,176 mol",
     "0,353 mol",
@@ -7074,7 +7074,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-tandarts-8",
@@ -7101,7 +7101,7 @@
    "year": 2026,
    "track": "tandarts",
    "number": 9,
-   "stem": "Gegeven de niet-uitgebalanceerde redoxvergelijking:\n\n … ������������������₃ + … ������ → … ������������ + … ������ + … ������₂������\nWelke verbinding wordt hier voorgesteld door X?",
+   "stem": "Gegeven de niet-uitgebalanceerde redoxvergelijking:\n\n … HNO₃ + … X → … NO + … S + … H₂O\nWelke verbinding wordt hier voorgesteld door X?",
    "options": [
     "H₂SO₃",
     "SO₂",
@@ -7110,7 +7110,7 @@
    ],
    "answer": null,
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2026-tandarts-10",
@@ -7319,14 +7319,14 @@
    "number": 5,
    "stem": "Een elektrische schakeling bestaat uit drie weerstanden, een spanningsbron U\nen een ampèremeter A. De stroomsterkte gemeten door de ampèremeter is\ngelijk aan I.\n\nHet vermogen ontwikkeld in de weerstand met waarde R/2 is gelijk aan:",
    "options": [
-    "8.������2.������\n 25",
+    "8.I2.R\n 25",
     "I2.R",
-    "16.������2.������",
-    "5\n\n 25.������2.������\n 32"
+    "16.I2.R",
+    "5\n\n 25.I2.R\n 32"
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2021-arts-6",
@@ -7335,16 +7335,16 @@
    "year": 2021,
    "track": "arts",
    "number": 6,
-   "stem": "Een positief ion beweegt met een horizontale snelheid →. Het ion komt in een\n\n ������\n\ngebied waarin zich een homogeen elektrisch veld → en een homogeen\n\n ������\n\nmagnetisch veld → bevinden. → staat loodrecht op het vlak waarin → en →\n ������ ������ ������ ������\n\nliggen. → staat loodrecht op →.\n ������ ������\n\fDe snelheid → verandert niet als:\n\n ������",
+   "stem": "Een positief ion beweegt met een horizontale snelheid →. Het ion komt in een\n\n v\n\ngebied waarin zich een homogeen elektrisch veld → en een homogeen\n\n E\n\nmagnetisch veld → bevinden. → staat loodrecht op het vlak waarin → en →\n B B E v\n\nliggen. → staat loodrecht op →.\n v E\n\fDe snelheid → verandert niet als:\n\n v",
    "options": [
-    "|→| = |→|. |→|\n ������ ������ ������\n\n |→|",
-    "|→| = ������\n ������ |→|\n ������\n 2\n |→|",
-    "|→| = ������\n ������ |→|\n ������",
-    "|→|\n\n |→| = ������\n\n ������ |→|\n\n ������"
+    "|→| = |→|. |→|\n v E B\n\n |→|",
+    "|→| = E\n v |→|\n B\n 2\n |→|",
+    "|→| = B\n v |→|\n E",
+    "|→|\n\n |→| = B\n\n v |→|\n\n E"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2021-arts-7",
@@ -7389,7 +7389,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 3,
-   "stem": "������ ������\n\n |→| = ������. ������. (������������������− ������)\n ������ ������������������\n |→| = ������. ������. (������− ) ������������������\n ������ ������������������\n\nTwee afzonderlijke vaten X en Y zijn gevuld met ideaal gas. Het volume van vat\nX is dubbel zo groot als het volume van vat Y. De temperatuur van het gas in vat\nx is 200 K en de temperatuur van het gas in vat Y is 300 K. De druk in vat X is\ngelijk aan de druk in vat Y. Vat X bevat n mol gas.\n\nHet aantal mol gas in vat Y is gelijk aan",
+   "stem": "F ρ\n\n |→| = m. g. (ρvl− ρ)\n F ρvl\n |→| = m. g. (ρ− ) ρvl\n F ρvl\n\nTwee afzonderlijke vaten X en Y zijn gevuld met ideaal gas. Het volume van vat\nX is dubbel zo groot als het volume van vat Y. De temperatuur van het gas in vat\nx is 200 K en de temperatuur van het gas in vat Y is 300 K. De druk in vat X is\ngelijk aan de druk in vat Y. Vat X bevat n mol gas.\n\nHet aantal mol gas in vat Y is gelijk aan",
    "options": [
     "n/3",
     "n/2",
@@ -7398,7 +7398,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2021-tandarts-4",
@@ -7445,14 +7445,14 @@
    "number": 7,
    "stem": "In welke van onderstaande kernreacties komt het symbool X overeen met een\nneutron?",
    "options": [
-    "21������ + 21������ → 13������ + ������",
-    "21������ + 13������ → 42������������ + ������",
-    "21������ + 32������������ → 24������������ + ������",
-    "23������������ + 23������������ → 42������������ + ������"
+    "21H + 21H → 13H + X",
+    "21H + 13H → 42He + X",
+    "21H + 32He → 24He + X",
+    "23He + 23He → 42He + X"
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2021-tandarts-9",
@@ -7515,7 +7515,7 @@
    "year": 2022,
    "track": "arts",
    "number": 3,
-   "stem": "2 ������1 cm\n\n ������1− ������3\n\n cm ������3−2������2\n\n ������1− ������3\n\nHet elektrisch veld ���⃗��� in een punt A wordt veroorzaakt door de puntladingen Q\nen Q’. Dit wordt weergegeven in onderstaande figuur.\n\nDe verhouding Q/Q’ is:",
+   "stem": "2 ρ1 cm\n\n ρ1− ρ3\n\n cm ρ3−2ρ2\n\n ρ1− ρ3\n\nHet elektrisch veld E⃗ in een punt A wordt veroorzaakt door de puntladingen Q\nen Q’. Dit wordt weergegeven in onderstaande figuur.\n\nDe verhouding Q/Q’ is:",
    "options": [
     "-4",
     "4",
@@ -7524,7 +7524,7 @@
    ],
    "answer": null,
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2022-arts-4",
@@ -7551,16 +7551,16 @@
    "year": 2022,
    "track": "arts",
    "number": 5,
-   "stem": "Een proton p, met massa mp en lading e voert in een homogeen magnetisch\nveld ���⃗��� een cirkelvormige beweging met straal R uit met snelheid ������. Het vlak\nvan de cirkelbeweging staat loodrecht op het magnetisch veld.\n\nDe frequentie f waarmee het proton de cirkelbaan doorloopt is gelijk aan",
+   "stem": "Een proton p, met massa mp en lading e voert in een homogeen magnetisch\nveld B⃗ een cirkelvormige beweging met straal R uit met snelheid v. Het vlak\nvan de cirkelbeweging staat loodrecht op het magnetisch veld.\n\nDe frequentie f waarmee het proton de cirkelbaan doorloopt is gelijk aan",
    "options": [
-    "������.|���⃗���|.⃗⃗|⃗���⃗⃗���⃗|\n ������������",
-    "������.|���⃗���|",
-    "2������ ������������\n\n 2������ ������������\n ������.|���⃗���|.⃗⃗|⃗⃗���⃗���⃗|",
-    "������.|���⃗���|.������\n ������������ .|���⃗���|"
+    "e.|B⃗|.⃗⃗|⃗v⃗⃗⃗|\n mp",
+    "e.|B⃗|",
+    "2π mp\n\n 2π mp\n e.|B⃗|.⃗⃗|⃗⃗v⃗⃗|",
+    "e.|B⃗|.R\n mp .|v⃗|"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2022-arts-6",
@@ -7569,7 +7569,7 @@
    "year": 2022,
    "track": "arts",
    "number": 6,
-   "stem": "Gegeven is volgend proces\n\n 1273������������ + 24������������ → ������ = ������������������������������������������\nHet massagetal A en het atoomnummer Z van X zijn gelijk aan",
+   "stem": "Gegeven is volgend proces\n\n 1273Al + 24He → X = neutron\nHet massagetal A en het atoomnummer Z van X zijn gelijk aan",
    "options": [
     "A = 15 en z = 30",
     "A = 16 en Z =31",
@@ -7578,7 +7578,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2022-arts-7",
@@ -7605,16 +7605,16 @@
    "year": 2022,
    "track": "arts",
    "number": 8,
-   "stem": "Beschouw volgende situatie in de nabijheid van het aardoppervlak. Een\nvoorwerp A met massa mA is met een touw verbonden met een voorwerp b\nmet massa mB, waarbij mA < mB. Beide voorwerpen schuiven over schuine\nvlakken die dezelfde hoek θ maken met een horizontale zoals weergegeven in\n\fde figuur. Verwaarloos alle wrijving en de massa van het touw.\n\nDe grootte |������| van de versnelling ������ van de voorwerpen is:",
+   "stem": "Beschouw volgende situatie in de nabijheid van het aardoppervlak. Een\nvoorwerp A met massa mA is met een touw verbonden met een voorwerp b\nmet massa mB, waarbij mA < mB. Beide voorwerpen schuiven over schuine\nvlakken die dezelfde hoek θ maken met een horizontale zoals weergegeven in\n\fde figuur. Verwaarloos alle wrijving en de massa van het touw.\n\nDe grootte |a| van de versnelling a van de voorwerpen is:",
    "options": [
-    "������������− ������������ ������. ������������������������\n ������������+ ������������",
-    "������������ ������. ������������������������\n ������������",
-    "������������− ������������ ������. ������������������������������\n ������������+ ������������",
-    "������������ ������. ������������������������\n ������������"
+    "mB− mA g. sinθ\n mA+ mB",
+    "mB g. sinθ\n mA",
+    "mB− mA g. scosθ\n mA+ mB",
+    "mB g. cosθ\n mA"
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2022-arts-10",
@@ -7677,16 +7677,16 @@
    "year": 2022,
    "track": "tandarts",
    "number": 4,
-   "stem": "Onderstaande figuur toont drie verschillende vonfiguraties van een electron e-\nen twee protonen p. In configuratie 1 ondervindt het elektron de resulterende\nelektrische kracht ⃗���⃗���⃗1. In configuratie 2 ondervindt het elektron de resulterende\nelektrische kracht ⃗���⃗⃗���⃗2. In configuratie 3 ondervindt het elektron de resulterende\nkracht ⃗���⃗⃗���⃗3. In de figuur zijn de afstanden tussen het elektron en de protonen\nweergegeven door d en D, met d < D.\n\fVoor de relatie tussen de grootten |���⃗⃗���⃗1| , |⃗���⃗⃗���⃗2| , |���⃗⃗⃗���⃗3| geldt dat:",
+   "stem": "Onderstaande figuur toont drie verschillende vonfiguraties van een electron e-\nen twee protonen p. In configuratie 1 ondervindt het elektron de resulterende\nelektrische kracht ⃗F⃗⃗1. In configuratie 2 ondervindt het elektron de resulterende\nelektrische kracht ⃗F⃗⃗⃗2. In configuratie 3 ondervindt het elektron de resulterende\nkracht ⃗F⃗⃗⃗3. In de figuur zijn de afstanden tussen het elektron en de protonen\nweergegeven door d en D, met d < D.\n\fVoor de relatie tussen de grootten |F⃗⃗⃗1| , |⃗F⃗⃗⃗2| , |F⃗⃗⃗⃗3| geldt dat:",
    "options": [
-    "|⃗���⃗���⃗1| > |⃗���⃗⃗���⃗2| > |⃗���⃗⃗���⃗3|",
-    "|⃗���⃗⃗���⃗2| > |���⃗⃗���⃗1| > |⃗���⃗⃗���⃗3|",
-    "|���⃗⃗���⃗1| > |⃗���⃗⃗���⃗3| > |⃗���⃗⃗���⃗2|",
-    "|⃗���⃗⃗���⃗2| > |⃗���⃗⃗���⃗3| > |���⃗⃗���⃗1|"
+    "|⃗F⃗⃗1| > |⃗F⃗⃗⃗2| > |⃗F⃗⃗⃗3|",
+    "|⃗F⃗⃗⃗2| > |F⃗⃗⃗1| > |⃗F⃗⃗⃗3|",
+    "|F⃗⃗⃗1| > |⃗F⃗⃗⃗3| > |⃗F⃗⃗⃗2|",
+    "|⃗F⃗⃗⃗2| > |⃗F⃗⃗⃗3| > |F⃗⃗⃗1|"
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2022-tandarts-6",
@@ -7695,7 +7695,7 @@
    "year": 2022,
    "track": "tandarts",
    "number": 6,
-   "stem": "������2\n ������2 ������3\n\n ������1\n\nEen proton beschrijft een cirkelvormige baan in een homogeen magnetisch\nveld. Het proton heeft een snelheid 4,4.105 m/s. Om een alfa-deeltje eenzelfde\ncirkelvormige baan te laten beschrijven in hetzelfde homogeen magnetisch\nveld, moet de snelheid van het alfa-deeltje gelijk zijn aan:",
+   "stem": "R2\n R2 R3\n\n R1\n\nEen proton beschrijft een cirkelvormige baan in een homogeen magnetisch\nveld. Het proton heeft een snelheid 4,4.105 m/s. Om een alfa-deeltje eenzelfde\ncirkelvormige baan te laten beschrijven in hetzelfde homogeen magnetisch\nveld, moet de snelheid van het alfa-deeltje gelijk zijn aan:",
    "options": [
     "1,1.105 m/s",
     "2,2.105 m/s",
@@ -7704,7 +7704,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2022-tandarts-7",
@@ -7713,7 +7713,7 @@
    "year": 2022,
    "track": "tandarts",
    "number": 7,
-   "stem": "Uranium 23982������ vervalt tot protactinium 23941������������\n\nDat kan door het uitzenden van:",
+   "stem": "Uranium 23982U vervalt tot protactinium 23941Pa\n\nDat kan door het uitzenden van:",
    "options": [
     "β- straling gevolgd door γ- straling.",
     "β- straling gevolgd door β- - straling.",
@@ -7722,7 +7722,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2022-tandarts-8",
@@ -7839,16 +7839,16 @@
    "year": 2023,
    "track": "arts",
    "number": 4,
-   "stem": "Vier puntladingen met dezelfde grootte |������| bevinden zich op de hoekpunten van een reechthoek\nmet zijden a en 2a zoals aangegeven in de figuur.\n\nDe grootte |���⃗���| van de elektrische veldvector |���⃗���| in het punt P is gelijk aan",
+   "stem": "Vier puntladingen met dezelfde grootte |Q| bevinden zich op de hoekpunten van een reechthoek\nmet zijden a en 2a zoals aangegeven in de figuur.\n\nDe grootte |E⃗| van de elektrische veldvector |E⃗| in het punt P is gelijk aan",
    "options": [
-    "2.k. |������|\n ������2",
-    "√2.k. |������|\n ������2",
-    "k. |������|\n √2������2",
-    "k. |������|\n 2−������2"
+    "2.k. |Q|\n a2",
+    "√2.k. |Q|\n a2",
+    "k. |Q|\n √2a2",
+    "k. |Q|\n 2−a2"
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2023-arts-5",
@@ -7929,7 +7929,7 @@
    "year": 2023,
    "track": "arts",
    "number": 9,
-   "stem": "Een bal met massa m is verbonden met een massaloos touw. De bal voert een eenparig cirkelvormige\nbeweging uit in een horizontaal vlak met een hoeksnelheid ω en een straal R.\n\nAls de straal R van de cirkel halveert en de grootte |������| verdubbelt, dan wordt de spankracht in het\ntouw",
+   "stem": "Een bal met massa m is verbonden met een massaloos touw. De bal voert een eenparig cirkelvormige\nbeweging uit in een horizontaal vlak met een hoeksnelheid ω en een straal R.\n\nAls de straal R van de cirkel halveert en de grootte |v| verdubbelt, dan wordt de spankracht in het\ntouw",
    "options": [
     "4 maal kleiner",
     "8 maal kleiner",
@@ -7938,7 +7938,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2023-arts-10",
@@ -8001,16 +8001,16 @@
    "year": 2023,
    "track": "dierenarts",
    "number": 3,
-   "stem": "Drie ladingen van identieke grootte |������| bevinden zich in de punten A, B en C die op een rechte lijn\nzijn gelegen. De afstanden tussen de ladingen zijn aangeduid in de figuur:\n\nDe grootte |���⃗���| van de resulterende elektrische kracht op de lading ⃗���⃗⃗���⃗in het punt A is gelijk aan:",
+   "stem": "Drie ladingen van identieke grootte |Q| bevinden zich in de punten A, B en C die op een rechte lijn\nzijn gelegen. De afstanden tussen de ladingen zijn aangeduid in de figuur:\n\nDe grootte |F⃗| van de resulterende elektrische kracht op de lading ⃗F⃗⃗⃗in het punt A is gelijk aan:",
    "options": [
-    "|���⃗���| = ������������2\n 2������2",
-    "|���⃗���| = ������������2\n ������2",
-    "| ���⃗���| = 3������������2\n 4������2",
-    "|���⃗���| = 5������������2\n 4������2"
+    "|F⃗| = kQ2\n 2R2",
+    "|F⃗| = kQ2\n R2",
+    "| F⃗| = 3kQ2\n 4R2",
+    "|F⃗| = 5kQ2\n 4R2"
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2023-dierenarts-4",
@@ -8345,14 +8345,14 @@
    "number": 7,
    "stem": "Een α-deeltje botst met een aluminiumkern waardoor een fosforkern gevormd wordt. Dit\nproces wordt beschreven door",
    "options": [
-    "2173������������ + 21������������ → 1284������ + 11������",
-    "1237������������ + 24������������ → 1350������ + 11������",
-    "2173������������ + 12������������ → 2148������ + 10������",
-    "2173������������ + 42������������ → 1305������ + 10������"
+    "2173Al + 21He → 1284P + 11p",
+    "1237Al + 24He → 1350P + 11p",
+    "2173Al + 12He → 2148P + 10n",
+    "2173Al + 42He → 1305P + 10n"
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2024-arts-8",
@@ -8379,7 +8379,7 @@
    "year": 2024,
    "track": "arts",
    "number": 9,
-   "stem": "Drie blokken A, B en C met massa mA = 10 kg, mB = 20 kg en mc = 8,0 kg liggen tegen elkaar\nop een tafel. Op blak A wordt een horizontale kracht ���⃗��� van 76,0 N uitgeoefend (zie figuur).\nVerwaarloos alle wrijving.\n\nDe grootte van de kracht uitgeoefend door blok B op blok C is gelijk aan",
+   "stem": "Drie blokken A, B en C met massa mA = 10 kg, mB = 20 kg en mc = 8,0 kg liggen tegen elkaar\nop een tafel. Op blak A wordt een horizontale kracht F⃗ van 76,0 N uitgeoefend (zie figuur).\nVerwaarloos alle wrijving.\n\nDe grootte van de kracht uitgeoefend door blok B op blok C is gelijk aan",
    "options": [
     "40 N",
     "76N",
@@ -8388,7 +8388,7 @@
    ],
    "answer": "D",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2024-arts-10",
@@ -8451,7 +8451,7 @@
    "year": 2024,
    "track": "dierenarts",
    "number": 4,
-   "stem": "Drie puntladingen bevindenzich op de hoekpunten van een gelijkzijdige driehoek met punt B\nals zwaartepunt (zie figuur). De ladingen hebben dezelfde grootte |������|. Het teken van de\nladingen is weergegeven in de figuur.\n\nDe kracht op een positieve lading is nul",
+   "stem": "Drie puntladingen bevindenzich op de hoekpunten van een gelijkzijdige driehoek met punt B\nals zwaartepunt (zie figuur). De ladingen hebben dezelfde grootte |Q|. Het teken van de\nladingen is weergegeven in de figuur.\n\nDe kracht op een positieve lading is nul",
    "options": [
     "als deze lading geplaatst wordt in punt A.",
     "in geen van de drie punten A, B of C.",
@@ -8460,7 +8460,7 @@
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2024-dierenarts-6",
@@ -8469,7 +8469,7 @@
    "year": 2024,
    "track": "dierenarts",
    "number": 6,
-   "stem": "Een deeltje beschrijf met snelheid ���⃗��� een cirkelbaan in een homogeen magnetisch veld. Het\nvlak van de baan staat loodrecht op het magneetveld.\n\nDit deeltje is mogelijk een",
+   "stem": "Een deeltje beschrijf met snelheid v⃗ een cirkelbaan in een homogeen magnetisch veld. Het\nvlak van de baan staat loodrecht op het magneetveld.\n\nDit deeltje is mogelijk een",
    "options": [
     "proton",
     "neutron",
@@ -8478,7 +8478,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2024-dierenarts-7",
@@ -8600,11 +8600,11 @@
     "2nR",
     "2",
     "2/n",
-    "2\n ������������"
+    "2\n nR"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2024-tandarts-4",
@@ -8631,16 +8631,16 @@
    "year": 2024,
    "track": "tandarts",
    "number": 7,
-   "stem": "Een 49������������ kern neemt een proton op en zendt vervolgens een α-deeltje uit.\nBij deze reactie ontstaat een",
+   "stem": "Een 49Be kern neemt een proton op en zendt vervolgens een α-deeltje uit.\nBij deze reactie ontstaat een",
    "options": [
-    "36������������ ������������������������",
-    "160������ ������������������������",
-    "26������������ ������������������������",
-    "73������������ ������������������������"
+    "36Li kern",
+    "160C kern",
+    "26He kern",
+    "73Li kern"
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2024-tandarts-8",
@@ -8703,16 +8703,16 @@
    "year": 2025,
    "track": "arts",
    "number": 1,
-   "stem": "Drie hydraulische systemen zijn gevuld met een vloeistof en afgesloten met zuigers (zie\nfiguur). De oppervlakte van de linkerzuiger is telkens A. De oppervlakte van de andere\nzuigers is telkens S. Op de linkerzuiger wordt een kracht uitgeoefend zodat het syteem in\nevenwicht is. Verwaarloos de massa van de zuigers.\n\nDen geldt voor de grootte van de krachten ���⃗⃗���⃗1 , ���⃗⃗���⃗2 en ���⃗⃗���⃗3",
+   "stem": "Drie hydraulische systemen zijn gevuld met een vloeistof en afgesloten met zuigers (zie\nfiguur). De oppervlakte van de linkerzuiger is telkens A. De oppervlakte van de andere\nzuigers is telkens S. Op de linkerzuiger wordt een kracht uitgeoefend zodat het syteem in\nevenwicht is. Verwaarloos de massa van de zuigers.\n\nDen geldt voor de grootte van de krachten F⃗⃗⃗1 , F⃗⃗⃗2 en F⃗⃗⃗3",
    "options": [
-    "|⃗���⃗���⃗1| < |���⃗⃗���⃗3| < |���⃗⃗���⃗2|",
-    "|���⃗⃗���⃗1| < |���⃗⃗���⃗2| = |⃗���⃗���⃗3|",
-    "|���⃗⃗���⃗1| = |���⃗⃗���⃗3| < |⃗���⃗���⃗2|",
-    "|���⃗⃗���⃗2| < |���⃗⃗���⃗1| = |⃗���⃗���⃗3|"
+    "|⃗F⃗⃗1| < |F⃗⃗⃗3| < |F⃗⃗⃗2|",
+    "|F⃗⃗⃗1| < |F⃗⃗⃗2| = |⃗F⃗⃗3|",
+    "|F⃗⃗⃗1| = |F⃗⃗⃗3| < |⃗F⃗⃗2|",
+    "|F⃗⃗⃗2| < |F⃗⃗⃗1| = |⃗F⃗⃗3|"
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2025-arts-3",
@@ -8757,12 +8757,12 @@
    "year": 2025,
    "track": "arts",
    "number": 6,
-   "stem": "Veronderstel dat een atoomkern ������������������ vervalt door heet uitzenden van twee elektronen, via ẞ -\n-straling, en door het uitzenden van een α – deeltje.\n\nDe gevormde kern kan worden genoteerd als",
+   "stem": "Veronderstel dat een atoomkern �A�X vervalt door heet uitzenden van twee elektronen, via ẞ -\n-straling, en door het uitzenden van een α – deeltje.\n\nDe gevormde kern kan worden genoteerd als",
    "options": [
-    "������������−−24������",
-    "������−���4���������",
-    "������−���2���������",
-    "������������−−24������"
+    "�A�−−24Y",
+    "A−Z4Y",
+    "A−Z2Y",
+    "�A�−−24Y"
    ],
    "answer": "B",
    "figure": false,
@@ -8796,13 +8796,13 @@
    "stem": "In een klaslokaal plaatst men de voorwerpen met massa m1 en m2 tegen elkaar op een\nhellling en laat ze vervolgens naar beneden glijden (zie figuur). Het hellend vlak maakt een\nhoek θ met de horizontale. Verwaarloos alle wrijving.\n\fDe kracht van het voorwerp met massa m1 op het voorwerp met massa m2 is",
    "options": [
     "m2.g.sin θ",
-    "������1.������2 . g.sin θ\n ������1+������2",
+    "m1.m2 . g.sin θ\n m1+m2",
     "m1.g.sin θ",
     "ON"
    ],
    "answer": "D",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2025-arts-10",
@@ -8829,7 +8829,7 @@
    "year": 2025,
    "track": "dierenarts",
    "number": 1,
-   "stem": "Beschouw de practicumopstelling zoals weergegeven in de onderstaande figuur. Een zuiger\nmet massa 0,50 kg wordt met een kracht ���⃗��� met een grootte van 4,0 N naar beneden\ngedrukt tot hij in evenwicht komt. De oppervlakte van het grondvlak van de zuiger in het\nlinkerbeen is 10 cm2. De oppervlakte van de doorsnede van het rechterbeen is 1 cm2.\n\nDe vloeistof heeft een dichtheid van 800 kg.m-3. Verwaarloos alle wrijving.\n\nDe hoogte h van de vloeistofkolom is gelijk aan",
+   "stem": "Beschouw de practicumopstelling zoals weergegeven in de onderstaande figuur. Een zuiger\nmet massa 0,50 kg wordt met een kracht F⃗ met een grootte van 4,0 N naar beneden\ngedrukt tot hij in evenwicht komt. De oppervlakte van het grondvlak van de zuiger in het\nlinkerbeen is 10 cm2. De oppervlakte van de doorsnede van het rechterbeen is 1 cm2.\n\nDe vloeistof heeft een dichtheid van 800 kg.m-3. Verwaarloos alle wrijving.\n\nDe hoogte h van de vloeistofkolom is gelijk aan",
    "options": [
     "1,1 m",
     "0,63 m",
@@ -8838,7 +8838,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2025-dierenarts-2",
@@ -8919,16 +8919,16 @@
    "year": 2025,
    "track": "dierenarts",
    "number": 7,
-   "stem": "Een joggerloopt op een rechte horizontale baan. De projectie van zijn snelheid volgens de\nbaan, v , verandert in de tijd t zoals weergegeven in onderstaande grafiek.\n\fHet tijdsinterval waarin de grootte van de snelheid, |������| , van de jogger toeneemt, is",
+   "stem": "Een joggerloopt op een rechte horizontale baan. De projectie van zijn snelheid volgens de\nbaan, v , verandert in de tijd t zoals weergegeven in onderstaande grafiek.\n\fHet tijdsinterval waarin de grootte van de snelheid, |v| , van de jogger toeneemt, is",
    "options": [
-    "]������4, ������5[",
-    "]������3, ������4[",
-    "]������0, ������1[",
-    "]������1, ������2["
+    "]t4, t5[",
+    "]t3, t4[",
+    "]t0, t1[",
+    "]t1, t2["
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2025-dierenarts-8",
@@ -9081,16 +9081,16 @@
    "year": 2025,
    "track": "tandarts",
    "number": 6,
-   "stem": "13575������������ vervalt onder uitzending van ẞ - -straling. Bij dat verval ontstaat",
+   "stem": "13575Cs vervalt onder uitzending van ẞ - -straling. Bij dat verval ontstaat",
    "options": [
-    "15376������������",
-    "15333������",
-    "13535������������",
-    "15374������������"
+    "15376Ba",
+    "15333I",
+    "13535cs",
+    "15374Xe"
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2025-tandarts-8",
@@ -9387,16 +9387,16 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 6,
-   "stem": "Het element dat gevormd wordt als 2536������������ een β⁺-verval ondergaat, is",
+   "stem": "Het element dat gevormd wordt als 2536Fe een β⁺-verval ondergaat, is",
    "options": [
-    "5273������������",
-    "5253������������",
-    "2574������������",
-    "5264������������"
+    "5273Cr",
+    "5253Mn",
+    "2574Co",
+    "5264Fe"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "fysica-2026-dierenarts-7",
@@ -9603,7 +9603,7 @@
    "year": 2020,
    "track": "arts",
    "number": 3,
-   "stem": "Wat is de maximale oppervlakte van een rechthoek met lengte L en breedte B\nwaarbij L en B voldoen aan\n\n ������ = ?",
+   "stem": "Wat is de maximale oppervlakte van een rechthoek met lengte L en breedte B\nwaarbij L en B voldoen aan\n\n L = ?",
    "options": [
     "1600",
     "1440",
@@ -9612,7 +9612,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2020-arts-4",
@@ -9711,7 +9711,7 @@
    "year": 2020,
    "track": "arts",
    "number": 10,
-   "stem": "Gegeven is de functie f met functievoorschrift\n\nf(x) = 5 − |3 − ������|\n\nVoor welk van de volgende x-waarden bereikt f GEEN lokaal extremum?",
+   "stem": "Gegeven is de functie f met functievoorschrift\n\nf(x) = 5 − |3 − x|\n\nVoor welk van de volgende x-waarden bereikt f GEEN lokaal extremum?",
    "options": [
     "8",
     "-2\n\nBrenda Casteleyn, PhD www.keu6.be Page 4",
@@ -9720,7 +9720,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2020-tandarts-1",
@@ -9801,7 +9801,7 @@
    "year": 2020,
    "track": "tandarts",
    "number": 5,
-   "stem": "De getoonde grafiek van de functie f werd verkregen door de grafiek van de functie g\nmet functievoorschrift g(x) = 2√������ te verschuiven in het vlak. Wat is de afgeleide\nfunctie van f?",
+   "stem": "De getoonde grafiek van de functie f werd verkregen door de grafiek van de functie g\nmet functievoorschrift g(x) = 2√x te verschuiven in het vlak. Wat is de afgeleide\nfunctie van f?",
    "options": [
     "www.keu6.be Page 3\n\n √",
     "√\n\nBrenda Casteleyn, PhD",
@@ -9810,7 +9810,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2020-tandarts-6",
@@ -9909,7 +9909,7 @@
    "year": 2021,
    "track": "arts",
    "number": 1,
-   "stem": "Vooraf: de logaritme met grongetal 3 van een strikt positief getal x noteren we\nals 3log x. Als a en b positieve reële getallen zijn met a>b en\n\n3log(a + b) – 3log (a – b) = 1, dan is ������ + ������ gelijk aan\n ������ ������",
+   "stem": "Vooraf: de logaritme met grongetal 3 van een strikt positief getal x noteren we\nals 3log x. Als a en b positieve reële getallen zijn met a>b en\n\n3log(a + b) – 3log (a – b) = 1, dan is a + b gelijk aan\n b a",
    "options": [
     "3/2",
     "2",
@@ -9918,7 +9918,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-arts-2",
@@ -9927,7 +9927,7 @@
    "year": 2021,
    "track": "arts",
    "number": 2,
-   "stem": "Voor reële getallen a en b, verschillend van nul, geldt dat\n\n[−12������ −������8] [−1������ ���6���] =[00 00]\nDan is a/b gelijk aan",
+   "stem": "Voor reële getallen a en b, verschillend van nul, geldt dat\n\n[−12a −a8] [−1a b6] =[00 00]\nDan is a/b gelijk aan",
    "options": [
     "-2/3",
     "-1/3",
@@ -9936,7 +9936,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-arts-3",
@@ -10019,10 +10019,10 @@
    "number": 7,
    "stem": "De parabool in deze figuur heeft vergelijking y = x2 . De waarden a en b op de y-\nas voldoen aan 0<a<b.\n\fDe gearceerde oppervlakte wordt gegeven door",
    "options": [
-    "∫������������ √������ ������������",
-    "∫������������ √������ ������������",
-    "∫√√������������ ������2 ������������",
-    "∫√√������������ ������2 ������������"
+    "∫�a� √t dt",
+    "∫�b� √t dt",
+    "∫√√�a� t2 dt",
+    "∫√√�b� t2 dt"
    ],
    "answer": "A",
    "figure": true,
@@ -10053,7 +10053,7 @@
    "year": 2021,
    "track": "arts",
    "number": 9,
-   "stem": "De functies f en g worden voorgesteld door de functievoorschriften\n\nf(x) = 2x + 2 en g(x) = x - 1 .\n ������ ������\n\nwaarbij x >0. Een verticale rechte snijdt de grafieken f en g in de punten A en B.\n\nDe raaklijn aan de grafiek van f in A en de raaklijn aan de grafiek van g in B zijn\nevenwijdig.\n\nWat is de richtingscoëfficiënt van deze raaklijnen?",
+   "stem": "De functies f en g worden voorgesteld door de functievoorschriften\n\nf(x) = 2x + 2 en g(x) = x - 1 .\n x x\n\nwaarbij x >0. Een verticale rechte snijdt de grafieken f en g in de punten A en B.\n\nDe raaklijn aan de grafiek van f in A en de raaklijn aan de grafiek van g in B zijn\nevenwijdig.\n\nWat is de richtingscoëfficiënt van deze raaklijnen?",
    "options": [
     "1",
     "4/3",
@@ -10062,7 +10062,7 @@
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-arts-10",
@@ -10071,7 +10071,7 @@
    "year": 2021,
    "track": "arts",
    "number": 10,
-   "stem": "De verzameling van alle reële getallen x die voldoen aan |������ + 5| − 2|������ − 1| ≥\n4\n\nIs gelijk aan:",
+   "stem": "De verzameling van alle reële getallen x die voldoen aan |x + 5| − 2|x − 1| ≥\n4\n\nIs gelijk aan:",
    "options": [
     "[1 , 2]\n\n 2",
     "[1 , 3]\n\n 3",
@@ -10080,7 +10080,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-tandarts-1",
@@ -10125,7 +10125,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 4,
-   "stem": "Een farmabedrijf onderzoekt een nieuwe en snellere test, Qtest genaamd, om\ncorona op te sporen. Een proef wordt opgezet met een publiek van 1000\nproefpersonen, waarbij geweten is dat 10% ervan met corona besmet is.\n\n  Van diegenen die met corona besmet zijn, geeft de Qtest in 90% van de\n gevallen een positief resultaat.\n\n  Van diegenen die niet met corona besmet zijn, geeft de Qtest in 2% van\n de gevallen een positief resultaat.\n\nWat is de kans dat een lukraak uit deze populatie gekozen persoon, waarvoor\nde Qtest een positief resultaat geeft, effectief met corona besmet is?",
+   "stem": "Een farmabedrijf onderzoekt een nieuwe en snellere test, Qtest genaamd, om\ncorona op te sporen. Een proef wordt opgezet met een publiek van 1000\nproefpersonen, waarbij geweten is dat 10% ervan met corona besmet is.\n\n • Van diegenen die met corona besmet zijn, geeft de Qtest in 90% van de\n gevallen een positief resultaat.\n\n • Van diegenen die niet met corona besmet zijn, geeft de Qtest in 2% van\n de gevallen een positief resultaat.\n\nWat is de kans dat een lukraak uit deze populatie gekozen persoon, waarvoor\nde Qtest een positief resultaat geeft, effectief met corona besmet is?",
    "options": [
     "1/6",
     "1/5",
@@ -10134,7 +10134,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-tandarts-5",
@@ -10143,7 +10143,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 5,
-   "stem": "De cirkel met middelpunt M(2,4) raakt aan de x-as en snijdt de y-as n de punten\nN en P. Wat is de lengte van het lijnstuk [������������] ?",
+   "stem": "De cirkel met middelpunt M(2,4) raakt aan de x-as en snijdt de y-as n de punten\nN en P. Wat is de lengte van het lijnstuk [NP] ?",
    "options": [
     "2√6",
     "4√2",
@@ -10152,7 +10152,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-tandarts-6",
@@ -10161,7 +10161,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 6,
-   "stem": "De integraal ∫−22(|������| − ������)3 ������������\n\nIs gelijk aan",
+   "stem": "De integraal ∫−22(|x| − x)3 dx\n\nIs gelijk aan",
    "options": [
     "-32",
     "0",
@@ -10170,7 +10170,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-tandarts-7",
@@ -10179,7 +10179,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 7,
-   "stem": "Vooraf: voor een standaard normaal verdeelde toevalsvariabele Z geldt de 68-\n95-99.7 vuistregel: P(-1 < Z < 1) ≈ 68%; ������(−2 < ������ < 2) ≈ 95%; ������(−3 < ������ <\n3) ≈ 99,7%.\n\nDe bovenbloeddruk van mannen, gemeten in mmHg, is normaal verdeeld met\neen gemiddelde van 128,5 en standaardafwijking van 11,5. Hoe groot is de kans\ndat bij een willekeurig gekozen koppel mannen de bovenbloeddruk bij beiden\nhoger is dan 140?",
+   "stem": "Vooraf: voor een standaard normaal verdeelde toevalsvariabele Z geldt de 68-\n95-99.7 vuistregel: P(-1 < Z < 1) ≈ 68%; P(−2 < Z < 2) ≈ 95%; P(−3 < Z <\n3) ≈ 99,7%.\n\nDe bovenbloeddruk van mannen, gemeten in mmHg, is normaal verdeeld met\neen gemiddelde van 128,5 en standaardafwijking van 11,5. Hoe groot is de kans\ndat bij een willekeurig gekozen koppel mannen de bovenbloeddruk bij beiden\nhoger is dan 140?",
    "options": [
     "Deze kans is strikt kleiner dan 2%",
     "Deze kans is groter dan 2% en strikt kleiner dan 3%",
@@ -10188,7 +10188,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-tandarts-8",
@@ -10197,7 +10197,7 @@
    "year": 2021,
    "track": "tandarts",
    "number": 8,
-   "stem": "Vooraf: de logaritme met grondtal p van een strikt positief getal x noteren we\nals plog x.\n\nAls a en b strikt positieve getallen zijn, dan is\n\n(1 – alog ������ )(1 + blog ������ )\n ������ ������\n\nGelijk aan:",
+   "stem": "Vooraf: de logaritme met grondtal p van een strikt positief getal x noteren we\nals plog x.\n\nAls a en b strikt positieve getallen zijn, dan is\n\n(1 – alog a )(1 + blog a )\n b b\n\nGelijk aan:",
    "options": [
     "1",
     "a-b",
@@ -10206,7 +10206,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2021-tandarts-9",
@@ -10235,14 +10235,14 @@
    "number": 10,
    "stem": "De diagonalen van een rechthoek hebben de lengte d en snijden elkaar onder\nhoeken waarvan de ene het vijfvoud is van de andere. Hoeveel is de\noppervlakte van deze rechthoek?",
    "options": [
-    "������2\n\n 5\n ������2",
-    "4\n ������2",
-    "3\n ������2",
+    "d2\n\n 5\n d2",
+    "4\n d2",
+    "3\n d2",
     "2"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2022-arts-2",
@@ -10269,7 +10269,7 @@
    "year": 2022,
    "track": "arts",
    "number": 3,
-   "stem": "De figuur toont het punt P op de eenheidscirkel.\n\nDe hoek (uitgedrukt in radialen) tussen de rechte OP en de x-as wordt gegeven\ndoor α € [0, ������].\n\nJe vindt het p:unt Q door P te spiegelen rond de x-as.\nDe lengte van de cirkelboog ���̂��������� op de eenheidscirkel is gelijk aan",
+   "stem": "De figuur toont het punt P op de eenheidscirkel.\n\nDe hoek (uitgedrukt in radialen) tussen de rechte OP en de x-as wordt gegeven\ndoor α € [0, π].\n\nJe vindt het p:unt Q door P te spiegelen rond de x-as.\nDe lengte van de cirkelboog P̂Q op de eenheidscirkel is gelijk aan",
    "options": [
     "2α",
     "2sin α",
@@ -10278,7 +10278,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2022-arts-4",
@@ -10287,7 +10287,7 @@
    "year": 2022,
    "track": "arts",
    "number": 4,
-   "stem": "De integraal ∫−���������/���/22 ������������������2 ������ cos ������ ������������",
+   "stem": "De integraal ∫−ππ//22 sin2 x cos x dx",
    "options": [
     "0",
     "1/3",
@@ -10296,7 +10296,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2022-arts-5",
@@ -10413,7 +10413,7 @@
    "year": 2022,
    "track": "tandarts",
    "number": 2,
-   "stem": "Waaraan is ������������������4 (������) + ������������������4 (������) gelijk?\n 6 6",
+   "stem": "Waaraan is sin4 (π) + cos4 (π) gelijk?\n 6 6",
    "options": [
     "1",
     "½",
@@ -10422,7 +10422,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2022-tandarts-3",
@@ -10431,7 +10431,7 @@
    "year": 2022,
    "track": "tandarts",
    "number": 3,
-   "stem": "Gegeven is de matrix A = [���0��� 31] met α een strikt negatief getal.\nAls het matrixproduct AAA gelijk is aan [���0���3 2137]\nDan is α gelijk aan:",
+   "stem": "Gegeven is de matrix A = [α0 31] met α een strikt negatief getal.\nAls het matrixproduct AAA gelijk is aan [α03 2137]\nDan is α gelijk aan:",
    "options": [
     "-5",
     "-4",
@@ -10440,7 +10440,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2022-tandarts-4",
@@ -10487,14 +10487,14 @@
    "number": 6,
    "stem": "Op elke zijde van een vierkant met zijde α construeert men een gelijkzijdige\ndriehoek, zoals in de figuur. Wat is de totale oppervlakte van deze stervormige\nfiguur?",
    "options": [
-    "(1 + √2)������2",
-    "(1 + √3)������2",
-    "(2 + √2)������2",
-    "(2 + √3)������2"
+    "(1 + √2)a2",
+    "(1 + √3)a2",
+    "(2 + √2)a2",
+    "(2 + √3)a2"
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2022-tandarts-7",
@@ -10503,7 +10503,7 @@
    "year": 2022,
    "track": "tandarts",
    "number": 7,
-   "stem": "De integraal ∫−22|������ − 1| ������������\nIs gelijk aan",
+   "stem": "De integraal ∫−22|x − 1| dx\nIs gelijk aan",
    "options": [
     "7",
     "6",
@@ -10512,7 +10512,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2022-tandarts-8",
@@ -10593,16 +10593,16 @@
    "year": 2023,
    "track": "arts",
    "number": 3,
-   "stem": "Beschouw de functie f meet domein ]0, +∞[ en met functievoorschrift\n\nf(x) = x + 2 + 1\n ������\n\nVoor elke x € ]0, +∞[ is f(f(x) – 2) gelijk aan",
+   "stem": "Beschouw de functie f meet domein ]0, +∞[ en met functievoorschrift\n\nf(x) = x + 2 + 1\n x\n\nVoor elke x € ]0, +∞[ is f(f(x) – 2) gelijk aan",
    "options": [
-    "x2 + 2 + 1\n ������",
-    "������+1 + 2 + ������\n ������ ������+1",
-    "������+1 + 2 + ������2\n ������2 ������+1",
-    "������2 +1 + 2 + ������"
+    "x2 + 2 + 1\n x",
+    "x+1 + 2 + x\n x x+1",
+    "x+1 + 2 + x2\n x2 x+1",
+    "x2 +1 + 2 + x"
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2023-arts-4",
@@ -10611,7 +10611,7 @@
    "year": 2023,
    "track": "arts",
    "number": 4,
-   "stem": "������ ������2+1\n\nVoor a > 0 beschouwen we de volgende drie figuren: een vierkant V met zijde a, een cirkel C\nmet straa a, een gelijkzijdige driehoek D met zijde a.\n\fVoor elke figuur bekijken we de verhouding r = ������������������������������������������������������������������������������������������������. We noteren hiervoor\nrespectievelijk rV, rC en rD. Dan geldt:",
+   "stem": "x x2+1\n\nVoor a > 0 beschouwen we de volgende drie figuren: een vierkant V met zijde a, een cirkel C\nmet straa a, een gelijkzijdige driehoek D met zijde a.\n\fVoor elke figuur bekijken we de verhouding r = op�opm��v��l��a��k�te. We noteren hiervoor\nrespectievelijk rV, rC en rD. Dan geldt:",
    "options": [
     "rV < rD < rC",
     "rD < rV < rC",
@@ -10665,7 +10665,7 @@
    "year": 2023,
    "track": "arts",
    "number": 7,
-   "stem": "De reële getallen a en b voldoen aan:\n\n[−������8 1���/���4] [−������8 1���/���4] = [−������8 1���/���4]\nBepaal het product ab",
+   "stem": "De reële getallen a en b voldoen aan:\n\n[−a8 1b/4] [−a8 1b/4] = [−a8 1b/4]\nBepaal het product ab",
    "options": [
     "-4",
     "-2",
@@ -10674,7 +10674,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2023-arts-8",
@@ -10685,14 +10685,14 @@
    "number": 8,
    "stem": "De figuur toont de grafiek van een oneven functie f.\n\nWelke van de onderstaande integralen geeft de oppervlakte van het grijs gekleurde gebied\nals resultaat?",
    "options": [
-    "∫02(������(������) − |������(������)|)������������",
-    "1 ∫−22 ( |������(������)| − ������(������))������������\n 2",
-    "1 ∫−22 ������(������)������������\n 2",
-    "∫02 ������(������)������������"
+    "∫02(f(x) − |f(x)|)dx",
+    "1 ∫−22 ( |f(x)| − f(x))dx\n 2",
+    "1 ∫−22 f(x)dx\n 2",
+    "∫02 f(x)dx"
    ],
    "answer": "B",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2023-arts-9",
@@ -10809,16 +10809,16 @@
    "year": 2023,
    "track": "dierenarts",
    "number": 5,
-   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van de natuurlijke logaritme voor.\n\nAls ∫√������2 ������ ������������ = 2\n ������2−1\n\ndan is t gelijk aan",
+   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van de natuurlijke logaritme voor.\n\nAls ∫√t2 x dx = 2\n x2−1\n\ndan is t gelijk aan",
    "options": [
-    "√������2 + 1",
-    "√������4 + 1",
-    "√������6 + 1",
-    "√������8 + 1"
+    "√e2 + 1",
+    "√e4 + 1",
+    "√e6 + 1",
+    "√e8 + 1"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2023-dierenarts-6",
@@ -10827,7 +10827,7 @@
    "year": 2023,
    "track": "dierenarts",
    "number": 6,
-   "stem": "Voor welk reëel getal a is er precies één koppel reële getallen (x,y) waarvoor geldt dat\n\n3 2 ������ 7\n[1 −1].[������] = [1] ?\n23 ������",
+   "stem": "Voor welk reëel getal a is er precies één koppel reële getallen (x,y) waarvoor geldt dat\n\n3 2 x 7\n[1 −1].[y] = [1] ?\n23 a",
    "options": [
     "3",
     "4",
@@ -10836,7 +10836,7 @@
    ],
    "answer": null,
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2023-dierenarts-7",
@@ -10971,7 +10971,7 @@
    "year": 2023,
    "track": "tandarts",
    "number": 4,
-   "stem": "In deze vraag worden alle hoeken uitgedrukt in radialen.\n\fHet precieze aantal oplossingen voor de onbekende x van de vergelijking\n\n(sin x + cos x) (sin x – cos( ������ -x)) = 0\n 2\n\nIn het interval [-6π, 9π] is",
+   "stem": "In deze vraag worden alle hoeken uitgedrukt in radialen.\n\fHet precieze aantal oplossingen voor de onbekende x van de vergelijking\n\n(sin x + cos x) (sin x – cos( π -x)) = 0\n 2\n\nIn het interval [-6π, 9π] is",
    "options": [
     "15",
     "30",
@@ -10980,7 +10980,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2023-tandarts-5",
@@ -11025,12 +11025,12 @@
    "year": 2023,
    "track": "tandarts",
    "number": 7,
-   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van het natuurlijke logatitme voor.\n\nVoor welk reëel getal a geldt dat:\n\n∫������������+1 ������ ������������ = 2?\n ������+1",
+   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van het natuurlijke logatitme voor.\n\nVoor welk reëel getal a geldt dat:\n\n∫�a�+1 t dt = 2?\n t+1",
    "options": [
-    "2������−1",
-    "������+1\n\n 2������−1\n 1−������",
-    "2������+1",
-    "1−������\n\n ������−1\n 1+2������"
+    "2e−1",
+    "e+1\n\n 2e−1\n 1−e",
+    "2e+1",
+    "1−e\n\n e−1\n 1+2e"
    ],
    "answer": "B",
    "figure": false,
@@ -11099,14 +11099,14 @@
    "number": 2,
    "stem": "Als de veelterm 3x3 – 2x2 + ax + 5a deelbaar is door 2x + 1, dan is het reëel getal a gelijk aan:",
    "options": [
-    "������\n\n 2",
+    "π\n\n 2",
     "1/44",
     "32/3",
     "5/4"
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-arts-5",
@@ -11133,7 +11133,7 @@
    "year": 2024,
    "track": "arts",
    "number": 6,
-   "stem": "De matrices A en B zijn gegeven door:\n\n������ = [���1��� ���2���] ������������ ������ = [4������ ���3���]\nWaarbij a, b, c en d reële getallen zijn.\n\nAls A.A = B, dan is ������������ gelijk aan\n\n ������������",
+   "stem": "De matrices A en B zijn gegeven door:\n\nA = [b1 a2] en B = [4c d3]\nWaarbij a, b, c en d reële getallen zijn.\n\nAls A.A = B, dan is ab gelijk aan\n\n cd",
    "options": [
     "−√3\n\n 2",
     "√3\n 2\n 12",
@@ -11142,7 +11142,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-arts-8",
@@ -11151,7 +11151,7 @@
    "year": 2024,
    "track": "arts",
    "number": 8,
-   "stem": "De hoeken worden in deze vraag uitgedrukt in radialen.\n\nAls ������ € ]− ������ , ������[ en cos 2α = 1+sin ������ , dan is tan α gelijk aan\n 22 2",
+   "stem": "De hoeken worden in deze vraag uitgedrukt in radialen.\n\nAls α € ]− π , π[ en cos 2α = 1+sin α , dan is tan α gelijk aan\n 22 2",
    "options": [
     "√3\n 3",
     "− √3\n\n 3",
@@ -11160,7 +11160,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-dierenarts-1",
@@ -11187,16 +11187,16 @@
    "year": 2024,
    "track": "dierenarts",
    "number": 2,
-   "stem": "Gegeven is de functie f met als voorschrift\n\n(fx) = 1 waarbij x ≠ -1.\n ������+1\n\nWat is het voorschrift van de tweede afgeleide f’’ ?",
+   "stem": "Gegeven is de functie f met als voorschrift\n\n(fx) = 1 waarbij x ≠ -1.\n x+1\n\nWat is het voorschrift van de tweede afgeleide f’’ ?",
    "options": [
-    "f’’ (x) = − 2\n (������+1)3",
-    "f’’ (x) = − 1\n (������+1)3",
-    "f’’ (x) = 1\n (������+1)3",
-    "1 f’’ (x) = 2\n (������+1)3"
+    "f’’ (x) = − 2\n (x+1)3",
+    "f’’ (x) = − 1\n (x+1)3",
+    "f’’ (x) = 1\n (x+1)3",
+    "1 f’’ (x) = 2\n (x+1)3"
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-dierenarts-3",
@@ -11207,14 +11207,14 @@
    "number": 3,
    "stem": "Een gelijkbenige driehoek heeft twee zijden met lengte l en een topdriehoek van 120°.\nBepaal de oppervlakte van die driehoek.",
    "options": [
-    "������2\n\n 2",
-    "������2 √3\n 2",
-    "������2 √3\n\n 4",
-    "������2 √3"
+    "l2\n\n 2",
+    "l2 √3\n 2",
+    "l2 √3\n\n 4",
+    "l2 √3"
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-dierenarts-4",
@@ -11225,14 +11225,14 @@
    "number": 4,
    "stem": "De niet-gelijkbenige driehoek ABC is rechthoekig in B. Noteer α = Â. De rechte BD staat\nloodrecht op de rechte AC, en D is het snijpunt van deze twee rechten.\n\fWelke van de volgende verhoudingen is niet gelijk aan tan α?",
    "options": [
-    "|������������|\n |������������|",
-    "|������������|\n |������������|",
-    "|������������|\n |������������|",
-    "|������������|\n |������������|"
+    "|BC|\n |AB|",
+    "|BD|\n |BC|",
+    "|BD|\n |AD|",
+    "|CD|\n |BD|"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-dierenarts-5",
@@ -11241,7 +11241,7 @@
    "year": 2024,
    "track": "dierenarts",
    "number": 5,
-   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van de natuurlijke logaritme voor.\n\nDe integraal ∫1������3 1 ������������\n 3������\n\nis gelijk aan",
+   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van de natuurlijke logaritme voor.\n\nDe integraal ∫1e3 1 dx\n 3x\n\nis gelijk aan",
    "options": [
     "3",
     "2/3",
@@ -11250,7 +11250,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-dierenarts-6",
@@ -11259,7 +11259,7 @@
    "year": 2024,
    "track": "dierenarts",
    "number": 6,
-   "stem": "Gegeven zijn de matrices\n\n������ = [−11 −11] en Q = [−02 −02]\nDan is P.P – ½ Q.Q gelijk aan",
+   "stem": "Gegeven zijn de matrices\n\nP = [−11 −11] en Q = [−02 −02]\nDan is P.P – ½ Q.Q gelijk aan",
    "options": [
     "-Q",
     "Q",
@@ -11268,7 +11268,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-dierenarts-7",
@@ -11385,7 +11385,7 @@
    "year": 2024,
    "track": "tandarts",
    "number": 3,
-   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van het natuurlijke logatitme voor.\n\nGegeven is de functie f met als voorschrift f(x) = e2x . We noteren de afgeleide functie met f’.\n\nDe integraal ∫01(������(������) + ������′(������))������������\nIs gelijk aan",
+   "stem": "Vooraf: zoals gebruikelijk stelt e het grondgetal van het natuurlijke logatitme voor.\n\nGegeven is de functie f met als voorschrift f(x) = e2x . We noteren de afgeleide functie met f’.\n\nDe integraal ∫01(f(x) + f′(x))dx\nIs gelijk aan",
    "options": [
     "3/2 (e2 – 1)",
     "3(e2 – 1",
@@ -11394,7 +11394,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-tandarts-4",
@@ -11459,14 +11459,14 @@
    "number": 7,
    "stem": "Het gemiddelde gewicht van een groep van n personen (waarbij n ≥ 2) is 60 kg. Meet Koen\nerbij stijgt het gemiddelde gewicht met 1 kg. Wat is het gewicht van Koen, uitgedrukt in kg?",
    "options": [
-    "64 + ������+1\n 1",
-    "60 + ������+1\n 1",
+    "64 + n+1\n 1",
+    "60 + n+1\n 1",
     "61 + n",
     "60 + n"
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-tandarts-8",
@@ -11475,7 +11475,7 @@
    "year": 2024,
    "track": "tandarts",
    "number": 8,
-   "stem": "De hoeken worden hier uitgedrukt in radialen.\n\fAls ������������������2 ������ = 3/2 met α € [0, ������] en α ≠ π/2, dan is tan α gelijk aan:\n cos ������",
+   "stem": "De hoeken worden hier uitgedrukt in radialen.\n\fAls sin2 α = 3/2 met α € [0, π] en α ≠ π/2, dan is tan α gelijk aan:\n cos α",
    "options": [
     "√3\n 3",
     "- √3\n 3",
@@ -11484,7 +11484,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2024-tandarts-9",
@@ -11547,16 +11547,16 @@
    "year": 2025,
    "track": "arts",
    "number": 2,
-   "stem": "Gegeven zijn de matrices\n\nA =[32−������������ −3������ ] en B = [33−������������ 3������ ] waarbij a € ℝ\n 2������ 2������\n\nDan is het product A.B gelijk aan\n\n 6������ − 1 0",
+   "stem": "Gegeven zijn de matrices\n\nA =[32−aa −3a ] en B = [33−aa 3a ] waarbij a € ℝ\n 2a 2a\n\nDan is het product A.B gelijk aan\n\n 6a − 1 0",
    "options": [
-    "[1 + (2)������ 1 + 4������]\n\n 3",
-    "[96−������������ −9������ ]\n 4������\n\n 6������ − 1 0",
-    "[1 − (2)������ 1 + 22������]\n\n 3\n\n 6������ − 1 0",
-    "[1 + (3)������ 1 + 22������]\n\n 2"
+    "[1 + (2)a 1 + 4a]\n\n 3",
+    "[96−aa −9a ]\n 4a\n\n 6a − 1 0",
+    "[1 − (2)a 1 + 22a]\n\n 3\n\n 6a − 1 0",
+    "[1 + (3)a 1 + 22a]\n\n 2"
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-arts-3",
@@ -11565,16 +11565,16 @@
    "year": 2025,
    "track": "arts",
    "number": 3,
-   "stem": "De rechtshoekszzijden van een rechthoekige driehoek hebben lengtes sin (2t) en 2 sin2t\nwaarbij t ∈ ]0, ������/2[. Dan is de lengte van de schuine zijde gelijk aan",
+   "stem": "De rechtshoekszzijden van een rechthoekige driehoek hebben lengtes sin (2t) en 2 sin2t\nwaarbij t ∈ ]0, π/2[. Dan is de lengte van de schuine zijde gelijk aan",
    "options": [
     "2(1 + sin t) sin t",
-    "2 √1 + ������������������2 ������ sin t.",
-    "2 √1 + ������������������2 ������ sin t.",
+    "2 √1 + cos2 t sin t.",
+    "2 √1 + sin2 t sin t.",
     "2 sin t"
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-arts-4",
@@ -11619,7 +11619,7 @@
    "year": 2025,
    "track": "arts",
    "number": 6,
-   "stem": "De verzameling van alle reële getallen x die voldoen aan\n\n |������ − 2| > |������ + 2|\n\nis gelijk aan",
+   "stem": "De verzameling van alle reële getallen x die voldoen aan\n\n |x − 2| > |x + 2|\n\nis gelijk aan",
    "options": [
     "]−∞, 2[",
     "]−∞, −2]",
@@ -11628,7 +11628,7 @@
    ],
    "answer": null,
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-arts-7",
@@ -11673,7 +11673,7 @@
    "year": 2025,
    "track": "arts",
    "number": 9,
-   "stem": "De driehoek ∆ ABC is gelijkbenig en heeft tophoek θ. De driehoek ∆ ������������������ is gelijkzijdig (zie\nfiguur). De oppervlakte van ∆ ������������������ is de helft van die van ∆ ABC.\n\nWaaraan is tan (θ/2) gelijk?",
+   "stem": "De driehoek ∆ ABC is gelijkbenig en heeft tophoek θ. De driehoek ∆ ADB is gelijkzijdig (zie\nfiguur). De oppervlakte van ∆ ADB is de helft van die van ∆ ABC.\n\nWaaraan is tan (θ/2) gelijk?",
    "options": [
     "√3\n 3",
     "√3\n 4",
@@ -11682,7 +11682,7 @@
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-arts-10",
@@ -11727,7 +11727,7 @@
    "year": 2025,
    "track": "dierenarts",
    "number": 2,
-   "stem": "Beschouw de matrices\n\nA =[10 ���1���] en B = [������1−1 01] met a ≠ 0 een reëel getal. Dan is A.B – B.A gelijk aan",
+   "stem": "Beschouw de matrices\n\nA =[10 a1] en B = [a1−1 01] met a ≠ 0 een reëel getal. Dan is A.B – B.A gelijk aan",
    "options": [
     "[−01 01]",
     "[00 00]",
@@ -11736,7 +11736,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-dierenarts-3",
@@ -11781,7 +11781,7 @@
    "year": 2025,
    "track": "dierenarts",
    "number": 6,
-   "stem": "Het aantal strikt negatieve gehele getallen k die voldoen aan de ongelijkheid\n\n 2|������| < |������ − 2|\n\fIs",
+   "stem": "Het aantal strikt negatieve gehele getallen k die voldoen aan de ongelijkheid\n\n 2|k| < |k − 2|\n\fIs",
    "options": [
     "1",
     "Oneindig",
@@ -11790,7 +11790,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-dierenarts-7",
@@ -11799,7 +11799,7 @@
    "year": 2025,
    "track": "dierenarts",
    "number": 7,
-   "stem": "De rechte met vergelijking x – 2y + 2 = 0 snijdt de cirkel met vergelijking x2 + y2 = 4 in twee\npunten met coördinaten (x1,y1) en (x2,y2). Dan is |������1 − ������2| gelijk aan",
+   "stem": "De rechte met vergelijking x – 2y + 2 = 0 snijdt de cirkel met vergelijking x2 + y2 = 4 in twee\npunten met coördinaten (x1,y1) en (x2,y2). Dan is |y1 − y2| gelijk aan",
    "options": [
     "9/5",
     "8/5",
@@ -11808,7 +11808,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-dierenarts-8",
@@ -11889,7 +11889,7 @@
    "year": 2025,
    "track": "tandarts",
    "number": 2,
-   "stem": "De matrices A en E zijn gegeven door\n\nA =[���0��� ���1���] en E = [10 01] waarbij a een reëel getal is. Voor hoeveel reële getallen geldt dat\n A.A = A + aE?",
+   "stem": "De matrices A en E zijn gegeven door\n\nA =[a0 a1] en E = [10 01] waarbij a een reëel getal is. Voor hoeveel reële getallen geldt dat\n A.A = A + aE?",
    "options": [
     "Precies één",
     "Meer dan twee",
@@ -11898,7 +11898,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-tandarts-3",
@@ -11925,7 +11925,7 @@
    "year": 2025,
    "track": "tandarts",
    "number": 4,
-   "stem": "Gegeven is de functie f met voorschrift\n\f f(x) = ∫0������(������3 − ������2 + ������)������������\nZoals gewoonlijk wordt de afgeleide functie van f genoteerd als f’.\n\nDan is f’(1) gelijk aan",
+   "stem": "Gegeven is de functie f met voorschrift\n\f f(x) = ∫0x(t3 − t2 + t)dt\nZoals gewoonlijk wordt de afgeleide functie van f genoteerd als f’.\n\nDan is f’(1) gelijk aan",
    "options": [
     "2",
     "5/12",
@@ -11934,7 +11934,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-tandarts-5",
@@ -11961,7 +11961,7 @@
    "year": 2025,
    "track": "tandarts",
    "number": 6,
-   "stem": "De vergelijking |������ + 1| = - |2 − ������| heeft",
+   "stem": "De vergelijking |x + 1| = - |2 − x| heeft",
    "options": [
     "precies twee reële oplossingen",
     "meer dan twee reële oplossingen",
@@ -11970,7 +11970,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-tandarts-7",
@@ -11997,7 +11997,7 @@
    "year": 2025,
    "track": "tandarts",
    "number": 8,
-   "stem": "Vooraf: Zoals gebruikelijk stelt e het grondtal van de natuurlijke logaritme voor. Beschouw\nde functie f met voorschrift\n\n f(x) = ������3������\n ������3������ +1\n\nWat is de vergelijking van de raaklijn aan de grafiek van deze functie in het punt met\ncoördinaat (0,f(0))?",
+   "stem": "Vooraf: Zoals gebruikelijk stelt e het grondtal van de natuurlijke logaritme voor. Beschouw\nde functie f met voorschrift\n\n f(x) = e3x\n e3x +1\n\nWat is de vergelijking van de raaklijn aan de grafiek van deze functie in het punt met\ncoördinaat (0,f(0))?",
    "options": [
     "x – 4y = -2",
     "3x – 2y = 2",
@@ -12006,7 +12006,7 @@
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2025-tandarts-9",
@@ -12033,7 +12033,7 @@
    "year": 2025,
    "track": "tandarts",
    "number": 10,
-   "stem": "In een rechthoek ABCD is |������������| = 4 en |������������| = 2. Het snijjpunt van de loodlijn uit A op de\nrechte BD is E, zoals aangegeven in de figuur. Wat is de verhouding van de oppervlakte van\nde ∆ BCD tot de oppervalkte van de driehoek ∆ AED?",
+   "stem": "In een rechthoek ABCD is |AB| = 4 en |AD| = 2. Het snijjpunt van de loodlijn uit A op de\nrechte BD is E, zoals aangegeven in de figuur. Wat is de verhouding van de oppervlakte van\nde ∆ BCD tot de oppervalkte van de driehoek ∆ AED?",
    "options": [
     "√20",
     "4√5 − 4",
@@ -12042,7 +12042,7 @@
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-arts-1",
@@ -12123,7 +12123,7 @@
    "year": 2026,
    "track": "arts",
    "number": 5,
-   "stem": "De functie f heeft functievoorschrift\n\n ������\n\n f(x) = ∫ (t⁵ + 3t²) dt\n\n 0\n\nDan geldt voor de tweede afgeleide functie f″ dat",
+   "stem": "De functie f heeft functievoorschrift\n\n x\n\n f(x) = ∫ (t⁵ + 3t²) dt\n\n 0\n\nDan geldt voor de tweede afgeleide functie f″ dat",
    "options": [
     "f″(−1) = 2",
     "f″(−1) = −2",
@@ -12132,7 +12132,7 @@
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-arts-6",
@@ -12267,7 +12267,7 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 5,
-   "stem": "De rest bij deling van de veelterm\n\n 6������³ − 5������² − 6������ + 5\ndoor de veelterm (x − 1)(x + 1) is gelijk aan",
+   "stem": "De rest bij deling van de veelterm\n\n 6x³ − 5x² − 6x + 5\ndoor de veelterm (x − 1)(x + 1) is gelijk aan",
    "options": [
     "0",
     "2x − 2",
@@ -12276,7 +12276,7 @@
    ],
    "answer": "A",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-dierenarts-6",
@@ -12303,7 +12303,7 @@
    "year": 2026,
    "track": "dierenarts",
    "number": 7,
-   "stem": "Petra kiest lukraak 4 van de 8 letters uit\n\n ������ ������ ������ ������ ������ ������ ������ ������\nNoteer met P de kans dat zij met deze 4 letters het woord ARTS kan vormen.\nWelke uitspraak over P is juist?",
+   "stem": "Petra kiest lukraak 4 van de 8 letters uit\n\n A A R S C H O T\nNoteer met P de kans dat zij met deze 4 letters het woord ARTS kan vormen.\nWelke uitspraak over P is juist?",
    "options": [
     "0,04 ≤ P",
     "0,03 ≤ P < 0,04",
@@ -12312,7 +12312,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-dierenarts-8",
@@ -12375,7 +12375,7 @@
    "year": 2026,
    "track": "tandarts",
    "number": 1,
-   "stem": "In deze vraag worden de hoeken in radialen uitgedrukt.\nHoeveel verschillende waarden bevat de verzameling\n\n {������������������ ������, ������������������(������/2 − ������), −������������������(������ + ������), −������������������(������ − ������), −������������������(−������)}\nals α = π/8?",
+   "stem": "In deze vraag worden de hoeken in radialen uitgedrukt.\nHoeveel verschillende waarden bevat de verzameling\n\n {cos α, sin(π/2 − α), −cos(π + α), −cos(π − α), −cos(−α)}\nals α = π/8?",
    "options": [
     "juist 4",
     "juist 3",
@@ -12384,7 +12384,7 @@
    ],
    "answer": "C",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-tandarts-2",
@@ -12393,7 +12393,7 @@
    "year": 2026,
    "track": "tandarts",
    "number": 2,
-   "stem": "Vooraf: De logaritme met grondtal e wordt genoteerd als ln.\nBeschouw de functie f met voorschrift\n\n ������(������) = ������������ √(2������), ������������������������������������������ ������ > 0.\nNoteer met f′ de afgeleide functie van f.\nVoor welke waarde van x is f′(x) = 2?",
+   "stem": "Vooraf: De logaritme met grondtal e wordt genoteerd als ln.\nBeschouw de functie f met voorschrift\n\n f(x) = ln √(2x), waarbij x > 0.\nNoteer met f′ de afgeleide functie van f.\nVoor welke waarde van x is f′(x) = 2?",
    "options": [
     "1/8",
     "1/4",
@@ -12402,7 +12402,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-tandarts-3",
@@ -12411,16 +12411,16 @@
    "year": 2026,
    "track": "tandarts",
    "number": 3,
-   "stem": "Vooraf: De logaritme met grondtal 10 wordt genoteerd als log.\nHet getal\n\n ������������������ √(120³)\nis gelijk aan",
+   "stem": "Vooraf: De logaritme met grondtal 10 wordt genoteerd als log.\nHet getal\n\n log √(120³)\nis gelijk aan",
    "options": [
-    "3(������������������ 5 + 1)\n\n 2",
-    "(3 ������������������ 3 + 6 ������������������ 2 + 3)\n 2",
-    "3(������������������ 3 + ������������������ 2 + 1)\n\n 2",
-    "(3 ������������������ 3 + 5 ������������������ 2 + 3)\n 2"
+    "3(log 5 + 1)\n\n 2",
+    "(3 log 3 + 6 log 2 + 3)\n 2",
+    "3(log 3 + log 2 + 1)\n\n 2",
+    "(3 log 3 + 5 log 2 + 3)\n 2"
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-tandarts-4",
@@ -12485,14 +12485,14 @@
    "number": 7,
    "stem": "Mieke meet haar hartslag op 11 verschillende momenten en vindt 11 verschillende waarden.\nDeze 11 waarden vormen een dataset S met gemiddelde g en mediaan m. Het gemiddelde\nvan de hoogste 5 waarden uit S is x, en het gemiddelde van de laagste 5 waarden uit S is y.\n\nDoor welke uitdrukking wordt de mediaan m gegeven?",
    "options": [
-    "m = g + ������ + ������\n 2",
-    "m = 5������ + ������ + 5������\n 11",
-    "m = ������ + ������\n 2",
+    "m = g + x + y\n 2",
+    "m = 5x + g + 5y\n 11",
+    "m = x + y\n 2",
     "m = 11g − 5x − 5y"
    ],
    "answer": "D",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-tandarts-9",
@@ -12501,7 +12501,7 @@
    "year": 2026,
    "track": "tandarts",
    "number": 9,
-   "stem": "2\n\n ∫���������1���2 ������(������) ������(������)������������\n ∫���������1���2 ������(������)������������ . ∫���������1���2 ������(������)������������\n\nIn een rechthoek zijn een gelijkzijdige driehoek en een vierkant getekend zoals in de figuur.\nDe zijden van de driehoek en het vierkant hebben lengte 1.\n\nWat is de oppervlakte van de rechthoek?",
+   "stem": "2\n\n ∫tt12 c(t) D(t)dt\n ∫tt12 c(t)dt . ∫tt12 D(t)dt\n\nIn een rechthoek zijn een gelijkzijdige driehoek en een vierkant getekend zoals in de figuur.\nDe zijden van de driehoek en het vierkant hebben lengte 1.\n\nWat is de oppervlakte van de rechthoek?",
    "options": [
     "5 + 5√3\n 4",
     "3 + 5√3\n\n 4",
@@ -12510,7 +12510,7 @@
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "wiskunde-2026-tandarts-10",
@@ -12537,7 +12537,7 @@
    "year": 2018,
    "track": "arts",
    "number": 1,
-   "stem": "Welke waarden moeten worden toegekend aan x en y in de onderstaande\nreactievergelijking die voor de rest volledig correct is?\n\n 2 CxH6 (g) + 7 O2 (g)  y CO2 (g) + 6 H2O (g)",
+   "stem": "Welke waarden moeten worden toegekend aan x en y in de onderstaande\nreactievergelijking die voor de rest volledig correct is?\n\n 2 CxH6 (g) + 7 O2 (g) → y CO2 (g) + 6 H2O (g)",
    "options": [
     "x = 7 en y = 7",
     "x = 3,5 en y = 7",
@@ -12546,7 +12546,7 @@
    ],
    "answer": "C",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2018-arts-2",
@@ -12609,7 +12609,7 @@
    "year": 2018,
    "track": "arts",
    "number": 6,
-   "stem": "Voor de reactie A + B  C + D werd de reactiesnelheid v bepaald\nbij verschillende concentraties van de reagentia. De resultaten van het\nonderzoek staan in de onderstaande tabel.\n\nExperiment nr. 1 2 3 4 5\n\n[A] (mol.L-1) 0,10 0,20 0,30 0,20 Y\n\n[B] (mol.L-1) 0,10 0,10 0,20 0,20 0,30\nv (mol.L-1.s-1) 0,0015 0,0030 X 0,0060 0,018\n\nVoor welke waarden staan X en Y?",
+   "stem": "Voor de reactie A + B → C + D werd de reactiesnelheid v bepaald\nbij verschillende concentraties van de reagentia. De resultaten van het\nonderzoek staan in de onderstaande tabel.\n\nExperiment nr. 1 2 3 4 5\n\n[A] (mol.L-1) 0,10 0,20 0,30 0,20 Y\n\n[B] (mol.L-1) 0,10 0,10 0,20 0,20 0,30\nv (mol.L-1.s-1) 0,0015 0,0030 X 0,0060 0,018\n\nVoor welke waarden staan X en Y?",
    "options": [
     "0,0090 en 0,40",
     "0,0090 en 0,20",
@@ -12618,7 +12618,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2018-arts-7",
@@ -12681,7 +12681,7 @@
    "year": 2018,
    "track": "arts",
    "number": 10,
-   "stem": "Dichloor reageert met een overmaat C6H14 in aanwezigheid van licht\nvolgens de reactie\n\n C6H14 + Cl2  C6H13Cl + HCl\n\nIn deze reactie ontstaan er 5 plaatsisomeren van C6H13Cl. Wat is de naam\nvan het gebruikte C6H14 ?",
+   "stem": "Dichloor reageert met een overmaat C6H14 in aanwezigheid van licht\nvolgens de reactie\n\n C6H14 + Cl2 → C6H13Cl + HCl\n\nIn deze reactie ontstaan er 5 plaatsisomeren van C6H13Cl. Wat is de naam\nvan het gebruikte C6H14 ?",
    "options": [
     "2-Methylpentaan",
     "3-Methylpentaan",
@@ -12690,7 +12690,7 @@
    ],
    "answer": null,
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2019-arts-1",
@@ -12951,7 +12951,7 @@
    "year": 2018,
    "track": "tandarts",
    "number": 5,
-   "stem": "Een oplossing van waterstofperoxide (H2O2) kan gebruikt worden als\nontsmettingsmiddel.\n\nHet waterstofperoxide wordt in zuur midden door permanganaationen\ngeoxideerd volgens de reactievergelijking\n\n 2 MnO4- (aq) + 5 H2O2 (aq) + 6 H+ (aq)  2 Mn2+ (aq) + 5 O2 (g) + 8 H2O (l)\n\n35,0 mL van een aangezuurde KMnO4-oplossing met concentratie\n0,100 mol.L-1 zijn nodig om al het waterstofperoxide te laten wegreageren\nin 50,0 mL ontsmettingsmiddel.\n\nWat is de concentratie van waterstofperoxide in dit ontsmettingsmiddel?",
+   "stem": "Een oplossing van waterstofperoxide (H2O2) kan gebruikt worden als\nontsmettingsmiddel.\n\nHet waterstofperoxide wordt in zuur midden door permanganaationen\ngeoxideerd volgens de reactievergelijking\n\n 2 MnO4- (aq) + 5 H2O2 (aq) + 6 H+ (aq) → 2 Mn2+ (aq) + 5 O2 (g) + 8 H2O (l)\n\n35,0 mL van een aangezuurde KMnO4-oplossing met concentratie\n0,100 mol.L-1 zijn nodig om al het waterstofperoxide te laten wegreageren\nin 50,0 mL ontsmettingsmiddel.\n\nWat is de concentratie van waterstofperoxide in dit ontsmettingsmiddel?",
    "options": [
     "0,245 mol.L-1",
     "0,175 mol.L-1",
@@ -12960,7 +12960,7 @@
    ],
    "answer": "B",
    "figure": false,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2018-tandarts-6",
@@ -12969,7 +12969,7 @@
    "year": 2018,
    "track": "tandarts",
    "number": 6,
-   "stem": "Voor de reactie A + B  AB worden voor 3 experimenten telkens de\n\nbeginconcentraties en de overeenstemmende beginsnelheid v0\nweergegeven.\n\nExperiment [A]0 (mol.L-1) [B]0 (mol.L-1) v0 (mol.L-1.s-1)\n 1\n 2 0,10 0,10 1,0\n 3\n 0,20 0,10 4,0\n\n 0,20 0,20 8,0\n\nWat is de beginsnelheid van de reactie als [A]0 = [B]0 = 0,40 mol.L-1 ?",
+   "stem": "Voor de reactie A + B → AB worden voor 3 experimenten telkens de\n\nbeginconcentraties en de overeenstemmende beginsnelheid v0\nweergegeven.\n\nExperiment [A]0 (mol.L-1) [B]0 (mol.L-1) v0 (mol.L-1.s-1)\n 1\n 2 0,10 0,10 1,0\n 3\n 0,20 0,10 4,0\n\n 0,20 0,20 8,0\n\nWat is de beginsnelheid van de reactie als [A]0 = [B]0 = 0,40 mol.L-1 ?",
    "options": [
     "64 mol.L-1.s-1",
     "48 mol.L-1.s-1",
@@ -12978,7 +12978,7 @@
    ],
    "answer": "A",
    "figure": true,
-   "garbled": true
+   "garbled": false
   },
   {
    "id": "chemie-2018-tandarts-7",
