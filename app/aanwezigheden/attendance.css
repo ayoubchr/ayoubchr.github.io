@@ -1,0 +1,116 @@
+/* Aanwezigheden: grote tikvlakken op mobiel, brede tabel op desktop. */
+.att{max-width:1100px;padding-bottom:60px}
+.att-head{display:flex;justify-content:space-between;align-items:end;gap:16px;flex-wrap:wrap;padding:28px 0 16px}
+.att-head h1{font-size:clamp(2.1rem,4vw,3.2rem);letter-spacing:-.05em;margin:0}
+.att-head-actions{display:flex;gap:8px;flex-wrap:wrap}
+.att-head-actions .ghost-button{padding:10px 13px}
+.att-demo{background:#fff5e8;border:1px solid #e8cfa6;color:#70502d;border-radius:12px;padding:11px 14px;font-size:.9rem;line-height:1.5}
+.att-error{background:#fdf0ee;border:1px solid #f1c6bf;color:#86342a;border-radius:12px;padding:11px 14px;font-size:.9rem}
+.att-empty{color:#5d6c86;padding:30px 0}
+.att-hint{color:#7a879e;font-size:.84rem;line-height:1.5;margin:12px 0 0}
+
+.att-tabs{display:flex;gap:4px;background:#e9ecf5;padding:4px;border-radius:14px;margin:6px 0 18px;position:sticky;top:6px;z-index:5}
+.att-tabs button{flex:1;border:0;background:none;border-radius:11px;padding:11px 8px;font-weight:800;color:#55627c}
+.att-tabs button.on{background:#fff;color:#2b3650;box-shadow:0 3px 10px #2436651a}
+
+.att-card{background:#fff;border:1px solid #e0e6f0;border-radius:20px;padding:22px;box-shadow:0 10px 28px #2534620b;margin-bottom:16px}
+.att-card h2{font-size:1.2rem;letter-spacing:-.02em;margin:0 0 6px}
+.att-card p{color:#5d6c86;line-height:1.5;margin:0 0 12px}
+.att-card label{display:flex;flex-direction:column;gap:5px;margin-bottom:12px;font-size:.85rem;font-weight:750;color:#4a5670}
+.att input,.att select,.att textarea{font:inherit;border:1px solid #d5dbea;border-radius:11px;padding:11px 12px;background:#fff;color:#25324b;min-height:46px;width:100%}
+.att textarea{resize:vertical}
+.att-row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
+.att-row select{width:auto;flex:1;min-width:160px}
+.att-row.between{justify-content:space-between}
+.att-check{display:flex!important;flex-direction:row!important;align-items:center;gap:8px;font-size:.86rem;color:#4a5670;margin:0!important}
+.att-check input{width:18px;min-height:18px}
+
+.att-login{max-width:380px;margin:60px auto;display:flex;flex-direction:column;gap:12px}
+.att-login h1{font-size:2.2rem;letter-spacing:-.05em;margin:0}
+.att-login p{color:#5d6c86;margin:0}
+
+/* Aanwezigheid nemen */
+.att-session-bar{display:flex;gap:14px;align-items:end;justify-content:space-between;flex-wrap:wrap;margin-bottom:12px}
+.att-session-bar label{display:flex;flex-direction:column;gap:5px;font-size:.78rem;font-weight:850;letter-spacing:.08em;color:#63718c;text-transform:uppercase;flex:1;min-width:240px}
+.att-session-bar select{font-size:1rem;font-weight:700;text-transform:none;letter-spacing:0}
+.att-counts,.att-mini{display:flex;gap:6px;flex-wrap:wrap}
+.att-counts span,.att-mini span{border-radius:999px;padding:5px 10px;font-size:.82rem;font-weight:800;background:#eef1f7;color:#4a5670}
+.chip-aanwezig{background:#e3f5ea!important;color:#1f6b40!important}
+.chip-te-laat{background:#fff2dc!important;color:#8a5a12!important}
+.chip-afwezig{background:#fdecea!important;color:#a2342a!important}
+.chip-gewettigd{background:#e8ecfb!important;color:#3d4a9e!important}
+.att-bulk{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:10px;flex-wrap:wrap}
+.att-bulk button{border:1px solid #a9dbbc;background:#e8f6ee;color:#1f6b40;border-radius:11px;padding:10px 14px;font-weight:800}
+.att-bulk button:disabled{opacity:.5}
+.att-save{font-size:.84rem;font-weight:700;color:#7a879e}
+.att-save.ok{color:#1f6b40}
+.att-save.error{color:#a2342a}
+
+.att-list{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.att-list li{background:#fff;border:1px solid #e0e6f0;border-left:5px solid #d5dbea;border-radius:15px;padding:10px 12px;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.att-list li.has-aanwezig{border-left-color:#2aa264}
+.att-list li.has-te-laat{border-left-color:#e3a23b}
+.att-list li.has-afwezig{border-left-color:#d4533f}
+.att-list li.has-gewettigd{border-left-color:#5c67c9}
+.att-name{display:flex;flex-direction:column;min-width:0}
+.att-name strong{font-size:1.02rem;overflow-wrap:anywhere}
+.att-name small{color:#8390a6;font-size:.78rem;text-transform:capitalize}
+.att-buttons{display:flex;gap:6px;flex:none}
+.att-buttons button{border:1px solid #dfe5f0;background:#f7f9fc;border-radius:12px;min-width:48px;min-height:48px;padding:6px 10px;display:flex;align-items:center;justify-content:center;gap:6px;font-size:1.15rem;font-weight:900;color:#8390a6}
+.att-buttons em{font-style:normal;font-size:.82rem;font-weight:750}
+.att-buttons .st-aanwezig.on{background:#2aa264;border-color:#2aa264;color:#fff}
+.att-buttons .st-te-laat.on{background:#e3a23b;border-color:#e3a23b;color:#fff}
+.att-buttons .st-afwezig.on{background:#d4533f;border-color:#d4533f;color:#fff}
+.att-buttons .st-gewettigd.on{background:#5c67c9;border-color:#5c67c9;color:#fff}
+
+/* Leerlingen */
+.att-student-list{list-style:none;margin:8px 0 0;padding:0}
+.att-student-list li{display:flex;justify-content:space-between;align-items:center;gap:10px;padding:10px 0;border-bottom:1px solid #eef1f6;flex-wrap:wrap}
+.att-student-list li:last-child{border-bottom:0}
+.att-student-list li span:first-child{display:flex;flex-direction:column}
+.att-student-list small{color:#8390a6;text-transform:capitalize}
+.att-student-list li.inactive{opacity:.55}
+.att-student-list li.editing input{flex:2;min-width:180px;width:auto}
+.att-student-list li.editing select{flex:1;width:auto;min-width:120px}
+.att-actions{display:flex;gap:6px}
+.att-actions .ghost-button{padding:8px 11px;font-size:.84rem}
+
+/* Overzicht */
+.att-summary{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:10px;margin-bottom:24px}
+.att-sum-card{background:#fff;border:1px solid #e0e6f0;border-radius:16px;padding:14px 16px;display:grid;grid-template-columns:1fr auto;gap:8px 12px;align-items:center}
+.att-sum-card.warn{border-color:#f1c6bf;background:#fffaf9}
+.att-sum-card div:first-child{display:flex;flex-direction:column;min-width:0}
+.att-sum-card small{color:#8390a6;font-size:.78rem}
+.att-pct{font-size:1.5rem;font-weight:850;letter-spacing:-.04em;color:#2b3650}
+.att-sum-card.warn .att-pct{color:#a2342a}
+.att-mini{grid-column:1/-1}
+.att-mini span{padding:3px 8px;font-size:.76rem}
+.att-grid-head{display:flex;justify-content:space-between;align-items:center;gap:10px;flex-wrap:wrap;margin-bottom:10px}
+.att-grid-head h2{margin:0;font-size:1.3rem;letter-spacing:-.03em}
+.att-grid-wrap{overflow:auto;background:#fff;border:1px solid #e0e6f0;border-radius:16px;max-height:70vh}
+.att-grid{border-collapse:separate;border-spacing:0;font-size:.86rem;min-width:100%}
+.att-grid th,.att-grid td{border-bottom:1px solid #eef1f6;border-right:1px solid #f2f4f8;padding:0;text-align:center;white-space:nowrap}
+.att-grid thead th{position:sticky;top:0;background:#f7f9fc;z-index:2}
+.att-grid thead th button{border:0;background:none;padding:8px 10px;display:flex;flex-direction:column;align-items:center;gap:1px;font:inherit;color:#2b3650;font-weight:800;cursor:pointer}
+.att-grid thead th button:hover{background:#eceffa}
+.att-grid thead small{font-weight:600;color:#7a879e;max-width:110px;overflow:hidden;text-overflow:ellipsis}
+.att-grid th[scope=row],.att-grid thead th:first-child{position:sticky;left:0;background:#fff;text-align:left;padding:9px 12px;z-index:1;font-weight:750}
+.att-grid thead th:first-child{z-index:3;background:#f7f9fc}
+.att-grid td{width:44px;height:38px;font-weight:850}
+.cell-aanwezig{background:#e8f6ee;color:#1f6b40}
+.cell-te-laat{background:#fff4e1;color:#8a5a12}
+.cell-afwezig{background:#fdeeec;color:#a2342a}
+.cell-gewettigd{background:#ebeefb;color:#3d4a9e}
+
+.att-modal{position:fixed;inset:0;background:#1a2140aa;display:grid;place-items:center;padding:16px;z-index:20}
+.att-modal .att-card{width:100%;max-width:420px;margin:0}
+
+@media(max-width:700px){
+  .att-head{padding-top:18px}
+  .att-buttons em{display:none}
+  .att-buttons{gap:5px}
+  .att-buttons button{min-width:46px;min-height:46px;padding:4px}
+  .att-list li{padding:9px 10px;flex-wrap:wrap}
+  .att-card{padding:17px}
+}
+@media(max-width:400px){.att-list li{flex-direction:column;align-items:stretch}.att-buttons{justify-content:space-between}.att-buttons button{flex:1}}

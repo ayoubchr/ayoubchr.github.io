@@ -6,6 +6,7 @@ const NAV = [
   ['/oefenen', 'Oefenen'],
   ['/fouten', 'Mijn fouten'],
   ['/bronnen', 'Bronnen'],
+  ['/aanwezigheden', 'Aanwezigheden'],
 ];
 
 // crumbs: [[href, label], ..., [null, huidige pagina]]
