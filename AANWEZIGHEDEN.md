@@ -59,3 +59,16 @@ Je kunt **Sheet inrichten** gerust opnieuw klikken: bestaande gegevens blijven s
 
 De Sheet bevat namen van minderjarigen. Deel ze alleen met wie ze nodig heeft, deel het wachtwoord niet met leerlingen,
 en vervang het gedeelde wachtwoord door echte logins zodra Supabase er is.
+
+## Inchecken met QR-code
+
+1. Open `/aanwezigheden`, kies de les en klik op **QR-code tonen**. Projecteer het scherm in de klas.
+2. Leerlingen scannen de code met hun gsm-camera, vullen hun voor- en achternaam in en tikken op **Ik ben aanwezig**.
+   Hun status wordt meteen `aanwezig` in de Sheet; de teller op het scherm loopt mee.
+3. Wie niet ingecheckt is, staat op de gewone lijst nog open. Duid die zelf aan (bv. afwezig of te laat).
+
+Beveiliging:
+- De code vernieuwt elke 30 seconden en is 2 minuten geldig: een doorgestuurde foto werkt thuis snel niet meer.
+- Eén gsm kan per les maar één leerling inchecken.
+- Leerlingen zien nooit de namenlijst; een naam die niet in de lijst staat, wordt geweigerd.
+- Hoofdletters, accenten en de volgorde voor-/achternaam maken niet uit.

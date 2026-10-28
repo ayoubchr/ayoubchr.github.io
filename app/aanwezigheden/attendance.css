@@ -114,3 +114,24 @@
   .att-card{padding:17px}
 }
 @media(max-width:400px){.att-list li{flex-direction:column;align-items:stretch}.att-buttons{justify-content:space-between}.att-buttons button{flex:1}}
+
+/* QR-inchecken: knop en schermvullende weergave om te projecteren. */
+.att-bulk-buttons{display:flex;gap:8px;flex-wrap:wrap}
+.att-bulk .att-qr-button{background:#4f49d8;border-color:#4f49d8;color:#fff}
+.qr-screen{position:fixed;inset:0;z-index:30;background:linear-gradient(135deg,#f4f5ff,#eaf5ff);display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:5vw;padding:5vh 6vw;overflow:auto}
+.qr-close{position:absolute;top:18px;right:20px;width:48px;height:48px;border-radius:50%;border:1px solid #d5dbea;background:#fff;font-size:1.3rem;color:#4a5670}
+.qr-info h2{font-size:clamp(2rem,4.5vw,4rem);letter-spacing:-.05em;line-height:1.05;margin:10px 0 6px;color:#25324b}
+.qr-info>p{font-size:clamp(1rem,1.6vw,1.4rem);color:#5d6c86;text-transform:capitalize;margin:0 0 24px}
+.qr-info ol{margin:0 0 28px;padding-left:1.3em;font-size:clamp(1rem,1.7vw,1.5rem);line-height:1.8;color:#344363}
+.qr-count{display:inline-flex;align-items:baseline;gap:10px;background:#fff;border:1px solid #d5dbea;border-radius:18px;padding:14px 22px}
+.qr-count strong{font-size:clamp(2.2rem,4vw,3.6rem);letter-spacing:-.05em;color:#1f6b40}
+.qr-count span{font-size:clamp(1rem,1.6vw,1.4rem);color:#5d6c86;font-weight:700}
+.qr-box{background:#fff;border-radius:28px;padding:24px;box-shadow:0 24px 60px #24366526;display:flex;flex-direction:column;align-items:center;gap:12px}
+.qr-code{width:min(62vh,42vw);aspect-ratio:1}
+.qr-code svg{width:100%;height:100%;display:block}
+.qr-loading{display:grid;place-items:center;color:#7a879e;background:#f4f6fb;border-radius:12px}
+.qr-timer{width:100%;height:6px;border-radius:6px;background:#eef1f7;overflow:hidden}
+.qr-timer span{display:block;height:100%;background:#4f49d8;transition:width .25s linear}
+.qr-box small{color:#7a879e;font-weight:700}
+.qr-copy{border:0;background:none;color:#4c46b8;font-weight:750;text-decoration:underline;text-underline-offset:3px;font-size:.88rem}
+@media(max-width:800px){.qr-screen{grid-template-columns:1fr;align-content:start;padding:70px 18px 30px;gap:20px}.qr-code{width:min(80vw,420px)}.qr-info ol{display:none}}

@@ -1,5 +1,6 @@
 'use client';
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
+import QrScreen from './QrScreen';
 
 const API = '/api/aanwezigheden';
 const STATUS = {
@@ -54,7 +55,7 @@ function Login({ onDone }) {
   );
 }
 
-function TakeAttendance({ data, sessionId, setSessionId, onMark, saving }) {
+function TakeAttendance({ data, sessionId, setSessionId, onMark, saving, onShowQr }) {
   const session = data.sessions.find(s => s.id === sessionId);
   const students = data.students.filter(s => s.active);
   const marks = data.marks[sessionId] || {};
@@ -86,9 +87,14 @@ function TakeAttendance({ data, sessionId, setSessionId, onMark, saving }) {
 
       {session && students.length > 0 && (
         <div className="att-bulk">
-          <button onClick={() => onMark(Object.fromEntries(open.map(s => [s.id, 'aanwezig'])))} disabled={!open.length}>
-            Rest op aanwezig ({open.length})
-          </button>
+          <span className="att-bulk-buttons">
+            <button className="att-qr-button" onClick={onShowQr}>
+              ▦ QR-code tonen
+            </button>
+            <button onClick={() => onMark(Object.fromEntries(open.map(s => [s.id, 'aanwezig'])))} disabled={!open.length}>
+              Rest op aanwezig ({open.length})
+            </button>
+          </span>
           <span className={`att-save ${saving}`}>{{ idle: '', busy: 'Opslaan…', ok: data.demo ? 'Opgeslagen (demo) ✓' : 'Opgeslagen in Sheet ✓', error: 'Opslaan mislukt' }[saving]}</span>
         </div>
       )}
@@ -376,6 +382,19 @@ export default function Attendance() {
     load();
   }, [load]);
 
+  // Stil vernieuwen tijdens het inchecken met QR; niet als er nog eigen wijzigingen wachten.
+  const [showQr, setShowQr] = useState(false);
+  const refreshQuiet = useCallback(async () => {
+    if (Object.keys(pending.current).length) return null;
+    try {
+      const d = await call();
+      setData(d);
+      return d;
+    } catch {
+      return null;
+    }
+  }, []);
+
   // Algemene actie: stuurt naar de Sheet en neemt de verse stand over.
   const run = async body => {
     setError('');
@@ -524,7 +543,17 @@ export default function Attendance() {
         ))}
       </nav>
 
-      {tab === 'les' && <TakeAttendance data={data} sessionId={sessionId} setSessionId={switchSession} onMark={onMark} saving={saving} />}
+      {tab === 'les' && (
+        <TakeAttendance data={data} sessionId={sessionId} setSessionId={switchSession} onMark={onMark} saving={saving} onShowQr={() => setShowQr(true)} />
+      )}
+      {showQr && data.sessions.find(s => s.id === sessionId) && (
+        <QrScreen
+          session={data.sessions.find(s => s.id === sessionId)}
+          total={data.students.filter(s => s.active).length}
+          onRefresh={refreshQuiet}
+          onClose={() => setShowQr(false)}
+        />
+      )}
       {tab === 'leerlingen' && <Students data={data} run={run} />}
       {tab === 'overzicht' && (
         <Overview

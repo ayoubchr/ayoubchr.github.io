@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
 import { readAll, setup, addStudents, updateStudent, addSession, setMarks, STATUSES, isDemo, sheetUrl } from '@/lib/attendance-sheet';
 import { isAuthorized } from '@/lib/attendance-auth';
+import { createToken, ROTATE_SECONDS } from '@/lib/checkin';
 
 export const dynamic = 'force-dynamic';
 
@@ -26,6 +27,11 @@ export async function POST(request) {
   }
   try {
     switch (body.action) {
+      case 'checkinToken': {
+        const { token, expiresAt } = createToken(String(body.sessionId));
+        const origin = new URL(request.url).origin;
+        return NextResponse.json({ url: `${origin}/inchecken?t=${token}`, expiresAt, rotateSeconds: ROTATE_SECONDS });
+      }
       case 'setup':
         await setup();
         break;
